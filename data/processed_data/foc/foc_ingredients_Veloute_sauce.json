@@ -1,0 +1,25 @@
+{
+  "dish_name": "Veloute sauce",
+  "prep_time": "Preparation time: 15mins",
+  "cooking_time": "Cooking time: 15 mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Butter",
+      "quantity": "12 gm."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Flour",
+      "quantity": "12 gm."
+    },
+    {
+      "item": "Black pepper",
+      "quantity": "2 gm."
+    }
+  ]
+}

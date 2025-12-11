@@ -1,0 +1,73 @@
+{
+  "dish_name": "Arabian laham mandi",
+  "prep_time": "Preparation time 50 mins",
+  "cooking_time": "Cooking time 10 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Mutton",
+      "quantity": "1 kg."
+    },
+    {
+      "item": "Green cardamom",
+      "quantity": "4"
+    },
+    {
+      "item": "Rice",
+      "quantity": "500 gm."
+    },
+    {
+      "item": "Cloves",
+      "quantity": "4"
+    },
+    {
+      "item": "Carrot",
+      "quantity": "2 grated"
+    },
+    {
+      "item": "Black pepper",
+      "quantity": "10"
+    },
+    {
+      "item": "Capsicum",
+      "quantity": "2 slice"
+    },
+    {
+      "item": "Nutmeg",
+      "quantity": "1 pinch"
+    },
+    {
+      "item": "Olive oil",
+      "quantity": "50 ml."
+    },
+    {
+      "item": "Bay leaves",
+      "quantity": "2"
+    },
+    {
+      "item": "Almond",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Ginger powder",
+      "quantity": "4 gm."
+    },
+    {
+      "item": "Chicken stock",
+      "quantity": "1 liter"
+    },
+    {
+      "item": "Lemon",
+      "quantity": "4 slices"
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Water",
+      "quantity": "250 ml."
+    }
+  ]
+}

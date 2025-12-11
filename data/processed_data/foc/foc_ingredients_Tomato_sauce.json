@@ -1,0 +1,49 @@
+{
+  "dish_name": "Tomato sauce",
+  "prep_time": "Preparation time: 15mins",
+  "cooking_time": "Cooking time: 20mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Extra virgin oil",
+      "quantity": "20 ml."
+    },
+    {
+      "item": "Basil",
+      "quantity": "5 gm."
+    },
+    {
+      "item": "Onion (chopped)",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Tomato",
+      "quantity": "1 kg"
+    },
+    {
+      "item": "Carrot (chopped)",
+      "quantity": "1"
+    },
+    {
+      "item": "Tomato paste",
+      "quantity": "4 gm."
+    },
+    {
+      "item": "Stalk celery",
+      "quantity": "1"
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per taste"
+    },
+    {
+      "item": "Parsley",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Black pepper",
+      "quantity": "As per taste"
+    }
+  ]
+}

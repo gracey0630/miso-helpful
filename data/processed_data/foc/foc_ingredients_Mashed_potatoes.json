@@ -1,0 +1,25 @@
+{
+  "dish_name": "Mashed potatoes",
+  "prep_time": "Preparation time: 15 mins",
+  "cooking_time": "Cooking time: 20 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Potato",
+      "quantity": "500 gm."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Hot milk",
+      "quantity": "300 ml."
+    },
+    {
+      "item": "Parsley",
+      "quantity": "For garnish"
+    }
+  ]
+}

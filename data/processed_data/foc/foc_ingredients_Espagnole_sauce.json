@@ -1,0 +1,49 @@
+{
+  "dish_name": "Espagnole sauce",
+  "prep_time": "Preparation time: 15mins",
+  "cooking_time": "Cooking time: 15mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Carrot (chopped)",
+      "quantity": "1"
+    },
+    {
+      "item": "Beef stock",
+      "quantity": "1 liter"
+    },
+    {
+      "item": "Onion",
+      "quantity": "1 medium (chopped)"
+    },
+    {
+      "item": "Tomato puree",
+      "quantity": "60 gm."
+    },
+    {
+      "item": "Garlic (chopped)",
+      "quantity": "8 gm."
+    },
+    {
+      "item": "Celery stick (chopped)",
+      "quantity": "1"
+    },
+    {
+      "item": "Butter",
+      "quantity": "75 gm."
+    },
+    {
+      "item": "Black peppercons",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Flour",
+      "quantity": "62 gm."
+    },
+    {
+      "item": "Bay leaves",
+      "quantity": "1"
+    }
+  ]
+}

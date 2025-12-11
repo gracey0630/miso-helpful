@@ -1,0 +1,49 @@
+{
+  "dish_name": "Spanish churros",
+  "prep_time": "Preparation time: 30 mins",
+  "cooking_time": "Cooking time: 15 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Water",
+      "quantity": "250 ml."
+    },
+    {
+      "item": "Egg",
+      "quantity": "1"
+    },
+    {
+      "item": "Butter",
+      "quantity": "56 gm."
+    },
+    {
+      "item": "Vanilla essence",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Sugar",
+      "quantity": "13 gm."
+    },
+    {
+      "item": "Oil",
+      "quantity": "For frying"
+    },
+    {
+      "item": "Salt",
+      "quantity": "1 pinch"
+    },
+    {
+      "item": "Granulated sugar",
+      "quantity": "For coating"
+    },
+    {
+      "item": "Flour",
+      "quantity": "140 gm."
+    },
+    {
+      "item": "Cinnamon",
+      "quantity": "For coating"
+    }
+  ]
+}

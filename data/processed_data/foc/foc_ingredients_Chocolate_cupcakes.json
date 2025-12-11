@@ -1,0 +1,41 @@
+{
+  "dish_name": "Chocolate cupcakes",
+  "prep_time": "Preparation time: 15 mins",
+  "cooking_time": "Baking time: 25-30 mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Flour",
+      "quantity": "95 gm."
+    },
+    {
+      "item": "Icing sugar",
+      "quantity": "100 gm."
+    },
+    {
+      "item": "Coco powder",
+      "quantity": "41 gm."
+    },
+    {
+      "item": "Oil",
+      "quantity": "80 ml."
+    },
+    {
+      "item": "Baking soda",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Butter milk",
+      "quantity": "120 ml."
+    },
+    {
+      "item": "Baking powder",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Whip cream",
+      "quantity": "200 ml."
+    }
+  ]
+}

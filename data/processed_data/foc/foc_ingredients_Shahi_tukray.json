@@ -1,0 +1,41 @@
+{
+  "dish_name": "Shahi tukray",
+  "prep_time": "Preparation time 50 mins",
+  "cooking_time": "Cooking time 10 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Full fat milk",
+      "quantity": "1 liter"
+    },
+    {
+      "item": "Cardamom powder",
+      "quantity": "5 gm."
+    },
+    {
+      "item": "Sugar",
+      "quantity": "250 gm."
+    },
+    {
+      "item": "Ghee",
+      "quantity": "20 ml for frying"
+    },
+    {
+      "item": "Saffron",
+      "quantity": "8 stands"
+    },
+    {
+      "item": "Almond flakes",
+      "quantity": "10-12"
+    },
+    {
+      "item": "Brown bread",
+      "quantity": "4 slices"
+    },
+    {
+      "item": "Raisins",
+      "quantity": "10-12"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "dish_name": "Fish sauce",
+  "prep_time": "Preparation time: 40 mins",
+  "cooking_time": "Cooking time: 10 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Finely chopped garlic",
+      "quantity": "6 cloves"
+    },
+    {
+      "item": "Whole black",
+      "quantity": "12 gm."
+    },
+    {
+      "item": "Lemon zest",
+      "quantity": "1"
+    },
+    {
+      "item": "Small fish (herring, smelt)",
+      "quantity": "625 gm"
+    },
+    {
+      "item": "Sea salt",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Non chlorinated water",
+      "quantity": "500 ml."
+    },
+    {
+      "item": "Bay leaves",
+      "quantity": "6"
+    },
+    {
+      "item": "Fresh whey",
+      "quantity": "20 gm."
+    }
+  ]
+}

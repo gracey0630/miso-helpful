@@ -1,0 +1,41 @@
+{
+  "dish_name": "Hoisin sauce",
+  "prep_time": "Preparation time: 40 mins",
+  "cooking_time": "Cooking time: 10 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Dark brown sugar",
+      "quantity": "85 gm."
+    },
+    {
+      "item": "Rice vinegar",
+      "quantity": "12 ml."
+    },
+    {
+      "item": "Water",
+      "quantity": "20 ml."
+    },
+    {
+      "item": "Sesame oil",
+      "quantity": "2 ml."
+    },
+    {
+      "item": "Chinese black bean sauce",
+      "quantity": "35 ml."
+    },
+    {
+      "item": "Chinese five spice powder",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Soy sauce",
+      "quantity": "24 ml."
+    },
+    {
+      "item": "Red chilli/srirache",
+      "quantity": "3 gm."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "dish_name": "Sticky Chinese chicken wings",
+  "prep_time": "Preparation time: 40 mins",
+  "cooking_time": "Cooking time: 15 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Chicken wings",
+      "quantity": "1.5 kg"
+    },
+    {
+      "item": "Ketchup",
+      "quantity": "75 ml."
+    },
+    {
+      "item": "Sesame oil",
+      "quantity": "3 ml."
+    },
+    {
+      "item": "Chilli garlic sauce",
+      "quantity": "10 ml."
+    },
+    {
+      "item": "Lemon juice",
+      "quantity": "20 ml."
+    },
+    {
+      "item": "Garlic",
+      "quantity": "4 cloves"
+    },
+    {
+      "item": "Light soy sauce",
+      "quantity": "20 ml."
+    },
+    {
+      "item": "Ginger",
+      "quantity": "7 gm."
+    },
+    {
+      "item": "Brown sugar",
+      "quantity": "23 gm."
+    },
+    {
+      "item": "Five spice powder",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Hoisin sauce",
+      "quantity": "7 gm."
+    },
+    {
+      "item": "Coriander leaves",
+      "quantity": "For garnishing"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "dish_name": "Shahi chicken korma",
+  "prep_time": "Preparation time 50 mins",
+  "cooking_time": "Cooking time 10 mins",
+  "portions": "4",
+  "unit_size": NaN,
+  "ingredients": [
+    {
+      "item": "Chicken",
+      "quantity": "1 kg"
+    },
+    {
+      "item": "Dry Red chillies",
+      "quantity": "3"
+    },
+    {
+      "item": "Tomato",
+      "quantity": "2 medium"
+    },
+    {
+      "item": "Coriander powder",
+      "quantity": "8 gm."
+    },
+    {
+      "item": "Onion",
+      "quantity": "4 medium"
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Milk",
+      "quantity": "250 ml."
+    },
+    {
+      "item": "Saffron",
+      "quantity": "1 pinch"
+    },
+    {
+      "item": "Oil",
+      "quantity": "200 ml."
+    },
+    {
+      "item": "Kasoori methy",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Ginger paste",
+      "quantity": "9 gm."
+    },
+    {
+      "item": "Black pepper",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Garlic paste",
+      "quantity": "9 gm."
+    },
+    {
+      "item": "Bay leaves",
+      "quantity": "2"
+    },
+    {
+      "item": "Cumin seeds",
+      "quantity": "5 gm."
+    },
+    {
+      "item": "Curd",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Cardamom",
+      "quantity": "5"
+    },
+    {
+      "item": "Cashews",
+      "quantity": "25-30"
+    }
+  ]
+}

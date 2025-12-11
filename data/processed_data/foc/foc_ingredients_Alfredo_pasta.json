@@ -1,0 +1,33 @@
+{
+  "dish_name": "Alfredo pasta",
+  "prep_time": "Preparation time: 20 mins",
+  "cooking_time": "Cooking time: 30 mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Butter",
+      "quantity": "250 gm."
+    },
+    {
+      "item": "Garlic crush",
+      "quantity": "8 gm."
+    },
+    {
+      "item": "Cream",
+      "quantity": "20 ml."
+    },
+    {
+      "item": "Parmesan cheese",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Fettuccini pasta",
+      "quantity": "300 gm."
+    }
+  ]
+}

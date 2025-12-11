@@ -1,0 +1,41 @@
+{
+  "dish_name": "Tiramisu",
+  "prep_time": "Preparation time: 30 mins",
+  "cooking_time": "Setting time: 3 hrs",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Coffee",
+      "quantity": "20 gm."
+    },
+    {
+      "item": "Sugar",
+      "quantity": "65 gm."
+    },
+    {
+      "item": "Lady fingers",
+      "quantity": "40"
+    },
+    {
+      "item": "Cream cheese",
+      "quantity": "25 gm."
+    },
+    {
+      "item": "Water",
+      "quantity": "250 ml."
+    },
+    {
+      "item": "Whip cream",
+      "quantity": "500 gm."
+    },
+    {
+      "item": "Egg yolk",
+      "quantity": "6"
+    },
+    {
+      "item": "Coco powder",
+      "quantity": "15 gm."
+    }
+  ]
+}

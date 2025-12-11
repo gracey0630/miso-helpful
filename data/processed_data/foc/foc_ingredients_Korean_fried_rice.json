@@ -1,0 +1,65 @@
+{
+  "dish_name": "Korean fried rice",
+  "prep_time": "Preparation time: 60 mins",
+  "cooking_time": "Cooking time: 25 mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Soy sauce",
+      "quantity": "24 ml."
+    },
+    {
+      "item": "Ginger",
+      "quantity": "12 gm."
+    },
+    {
+      "item": "Gouchujang",
+      "quantity": "12 gm."
+    },
+    {
+      "item": "Garlic cloves",
+      "quantity": "3"
+    },
+    {
+      "item": "Sesame oil",
+      "quantity": "12 ml."
+    },
+    {
+      "item": "Boiled rice",
+      "quantity": "250 gm."
+    },
+    {
+      "item": "Caster sugar",
+      "quantity": "3 gm."
+    },
+    {
+      "item": "Kimchi",
+      "quantity": "90 gm."
+    },
+    {
+      "item": "Eggs",
+      "quantity": "4"
+    },
+    {
+      "item": "Carrot (jillion cut)",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Peanut oil",
+      "quantity": "15 ml."
+    },
+    {
+      "item": "peas",
+      "quantity": "80 gm."
+    },
+    {
+      "item": "Bacon",
+      "quantity": "100 gm."
+    },
+    {
+      "item": "Green shallots",
+      "quantity": "3"
+    }
+  ]
+}

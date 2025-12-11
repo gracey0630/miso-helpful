@@ -1,0 +1,57 @@
+{
+  "dish_name": "Murg malai kabab",
+  "prep_time": "Preparation time 40 mins",
+  "cooking_time": "Cooking time 25 - 30 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Chicken boneless",
+      "quantity": "500 gm"
+    },
+    {
+      "item": "Butter",
+      "quantity": "25 gm."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per taste"
+    },
+    {
+      "item": "Egg",
+      "quantity": "1"
+    },
+    {
+      "item": "Ginger paste",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Cream",
+      "quantity": "250 gm."
+    },
+    {
+      "item": "Green chilli",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Garlic paste",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Nutmeg",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Lemon juice",
+      "quantity": "3 gm."
+    },
+    {
+      "item": "Black pepper",
+      "quantity": "As per taste"
+    },
+    {
+      "item": "Germ masala",
+      "quantity": "2 gm."
+    }
+  ]
+}

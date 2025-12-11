@@ -1,0 +1,25 @@
+{
+  "dish_name": "Oyster sauce",
+  "prep_time": "Preparation time: 40 mins",
+  "cooking_time": "Cooking time: 10 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Shucked oysters with liquid",
+      "quantity": "225 gm."
+    },
+    {
+      "item": "Light soy sauce",
+      "quantity": "25 ml."
+    },
+    {
+      "item": "Water",
+      "quantity": "12 ml."
+    },
+    {
+      "item": "Dark soy sauce",
+      "quantity": "6 ml."
+    }
+  ]
+}

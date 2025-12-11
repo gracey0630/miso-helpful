@@ -1,0 +1,25 @@
+{
+  "dish_name": "Qehwa Arabeya",
+  "prep_time": "Preparation time: 20 mins",
+  "cooking_time": "Cooking Time 10 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Water",
+      "quantity": "1 liter"
+    },
+    {
+      "item": "Cardamom",
+      "quantity": "4"
+    },
+    {
+      "item": "Roasted and ground coffee",
+      "quantity": "75 gm."
+    },
+    {
+      "item": "Saffron",
+      "quantity": "2 gm."
+    }
+  ]
+}

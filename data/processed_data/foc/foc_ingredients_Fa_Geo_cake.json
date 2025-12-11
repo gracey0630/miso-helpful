@@ -1,0 +1,25 @@
+{
+  "dish_name": "Fa Geo cake",
+  "prep_time": "Preparation time: 40 mins",
+  "cooking_time": "baking time: 30 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Flour",
+      "quantity": "250 gm."
+    },
+    {
+      "item": "Brown sugar",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Hot water",
+      "quantity": "130 ml."
+    },
+    {
+      "item": "Baking powder",
+      "quantity": "4 gm."
+    }
+  ]
+}

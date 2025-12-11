@@ -1,0 +1,25 @@
+{
+  "dish_name": "Vanilla sponge",
+  "prep_time": "Preparation time: 15 mins",
+  "cooking_time": "Baking time: 25-30 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Eggs",
+      "quantity": "4"
+    },
+    {
+      "item": "Flour",
+      "quantity": "100 gm."
+    },
+    {
+      "item": "Icing sugar",
+      "quantity": "100 gm."
+    },
+    {
+      "item": "Vanilla essence",
+      "quantity": "2 ml."
+    }
+  ]
+}

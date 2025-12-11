@@ -1,0 +1,65 @@
+{
+  "dish_name": "Stuffed chicken",
+  "prep_time": "Preparation time: 30 mins",
+  "cooking_time": "Cooking time: 30mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Breast fillet",
+      "quantity": "500 gm."
+    },
+    {
+      "item": "Cheddar cheese",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Cooking oil",
+      "quantity": "15 ml."
+    },
+    {
+      "item": "Black pepper",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Butter",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Dried parsley",
+      "quantity": "5 gm."
+    },
+    {
+      "item": "Garlic chopped",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Garlic paste",
+      "quantity": "5 gm."
+    },
+    {
+      "item": "Mustard paste",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Olive oil",
+      "quantity": "10 ml."
+    },
+    {
+      "item": "Cream",
+      "quantity": "60 ml."
+    },
+    {
+      "item": "Fresh parsley",
+      "quantity": "5 gm."
+    },
+    {
+      "item": "Milk",
+      "quantity": "125 gm."
+    }
+  ]
+}

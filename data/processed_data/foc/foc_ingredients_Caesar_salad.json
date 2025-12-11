@@ -1,0 +1,73 @@
+{
+  "dish_name": "Caesar salad",
+  "prep_time": "Preparation time: 20 mins",
+  "cooking_time": "Cooking time: 20mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Paprika powder",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Garlic crushed",
+      "quantity": "2"
+    },
+    {
+      "item": "Driede parsley",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Lemon juice",
+      "quantity": "10 ml."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per taste"
+    },
+    {
+      "item": "Chicken fillet",
+      "quantity": "500 gm"
+    },
+    {
+      "item": "Black pepper",
+      "quantity": "As per taste"
+    },
+    {
+      "item": "Olive oil",
+      "quantity": "12 ml."
+    },
+    {
+      "item": "Yogurt",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Black olive",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Mustard paste",
+      "quantity": "5 gm."
+    },
+    {
+      "item": "Parmesan cheese",
+      "quantity": "4 gm."
+    },
+    {
+      "item": "Lemon juice",
+      "quantity": "5 ml."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Black pepper",
+      "quantity": "As per taste"
+    },
+    {
+      "item": "Olive oil",
+      "quantity": "18 ml."
+    }
+  ]
+}

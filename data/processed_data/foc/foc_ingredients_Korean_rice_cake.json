@@ -1,0 +1,49 @@
+{
+  "dish_name": "Korean rice cake",
+  "prep_time": "Preparation time: 60 mins",
+  "cooking_time": "Cooking time: 25 mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Red kidney beans",
+      "quantity": "125 gm"
+    },
+    {
+      "item": "Rice flour",
+      "quantity": "250 gm."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Boiling water",
+      "quantity": "50 ml."
+    },
+    {
+      "item": "Cinnamon",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Green tea powder",
+      "quantity": "For garnishing"
+    },
+    {
+      "item": "Sugar",
+      "quantity": "12 gm."
+    },
+    {
+      "item": "Black sesame seeds",
+      "quantity": "For garnishing"
+    },
+    {
+      "item": "Brown sugar",
+      "quantity": "150 gm."
+    },
+    {
+      "item": "Coconut",
+      "quantity": "For garnishing"
+    }
+  ]
+}

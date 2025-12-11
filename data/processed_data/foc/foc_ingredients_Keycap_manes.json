@@ -1,0 +1,25 @@
+{
+  "dish_name": "Keycap manes",
+  "prep_time": "Preparation time: 40 mins",
+  "cooking_time": "Cooking time: 10 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Soy sauce",
+      "quantity": "200 ml."
+    },
+    {
+      "item": "Cloves",
+      "quantity": "2 whole"
+    },
+    {
+      "item": "Brown sugar/ cocnut sugar",
+      "quantity": "300 gm."
+    },
+    {
+      "item": "Peppercorns",
+      "quantity": "2 gm."
+    }
+  ]
+}

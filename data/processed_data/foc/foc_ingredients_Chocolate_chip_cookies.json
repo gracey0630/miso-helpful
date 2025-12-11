@@ -1,0 +1,41 @@
+{
+  "dish_name": "Chocolate chip cookies",
+  "prep_time": "Preparation time: 15 mins",
+  "cooking_time": "Baking time: 25-30 mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Sugar",
+      "quantity": "100 gm."
+    },
+    {
+      "item": "Vanilla essence",
+      "quantity": "2 ml."
+    },
+    {
+      "item": "Brown sugar",
+      "quantity": "165 gm."
+    },
+    {
+      "item": "Baking soda",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Salt",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Chocolate chip",
+      "quantity": "110 gm."
+    },
+    {
+      "item": "Butter",
+      "quantity": "115 gm."
+    },
+    {
+      "item": "Dark chocolate chunks",
+      "quantity": "110 gm."
+    }
+  ]
+}

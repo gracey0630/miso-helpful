@@ -1,0 +1,27 @@
+{
+  "title": "Healthier Cooking Methods",
+  "introduction": "Healthy eating is more than just choosing good foods. How they're prepared is also important. Some cooking methods are better than others for cutting fat, cholesterol and calories while enhancing the nutritional value of the food. Avoid cooking methods that add unhealthy fats (saturated and trans fats) or let food cook in its own fat. (Deep-fat frying and pan frying are two examples.) Instead, request that food providers use these heart-healthy cooking methods.",
+  "cooking_methods": {
+    "Bake": "To cook in the oven. Food cooks slowly with gentle heat, causing the natural moisture to evaporate slowly.",
+    "Baste": "To brush or spoon liquid over meat during roasting. This adds flavor and prevents drying out. Use fat-free liquids such as water, wine or lemon juice.",
+    "Blanch": "To boil briefly. After 30 seconds in boiling water, plunge the vegetable or other food into ice water to stop the cooking. This keeps it tender-crisp.",
+    "Boil": "To cook food in heated water or other liquid, like broth, that is bubbling vigorously.",
+    "Braise or stew": "To cook food slowly using heat from an oven or stovetop with a little bit of liquid, usually water or broth. Braising tenderizes the meat and enhances flavor.",
+    "Broil": "To cook food directly under the heat source at a high temperature.",
+    "Brown": "To quickly sauté, broil or grill at the beginning or end of meal preparation, to enhance flavor, texture or eye appeal.",
+    "Grill": "To cook food on a rack directly over a heat source.",
+    "Marinate": "To coat or immerse foods in a liquid mixture or dry rub before cooking.",
+    "Poach": "To immerse in simmering liquid over direct heat. This is a good method for cooking fish.",
+    "Roast": "To cook uncovered in the oven.",
+    "Sauté": "To cook food quickly in a small amount of oil or liquid over direct heat.",
+    "Steam": "To cook over boiling water in a covered pan. This helps keep foods' shape, texture and nutritional value intact.",
+    "Stir-fry": "To cook small pieces of meat and vegetables quickly over very high heat with continual stirring, usually in a wok."
+  },
+  "food_preparation_tips": [
+    "Prepare food with minimal salt, if salt is needed at all. Use herbs, spices, salt-free seasoning blends, flavored vinegars, peppers, garlic and citrus juice/zest to add flavor instead.",
+    "Drain and rinse canned meat/seafood, vegetables and beans to remove excess salt or oil.",
+    "Trim all visible fat from meat before cooking.",
+    "Use skinless poultry or remove the skin before cooking.",
+    "Cook vegetables just long enough to make them tender-crisp. Overcooked vegetables lose flavor, color and important nutrients."
+  ]
+}

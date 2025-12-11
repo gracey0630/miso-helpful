@@ -1,0 +1,25 @@
+{
+  "dish_name": "Falafel",
+  "prep_time": "Preparation time 45 mins",
+  "cooking_time": "Cooking time 10 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Dried chickpeas",
+      "quantity": "225 gm."
+    },
+    {
+      "item": "Parsley",
+      "quantity": "350 gm."
+    },
+    {
+      "item": "Scallions",
+      "quantity": "1 bunch"
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per taste"
+    }
+  ]
+}

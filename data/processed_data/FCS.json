@@ -1,0 +1,68 @@
+{
+  "title": "Basic Cooking Techniques",
+  "introduction": "Cooking is the preparation of food for eating, especially by applying heat. It takes several well-developed techniques to consistently cook food in a way that is pleasing to the senses. Cooking techniques are the practical and specialized methods used to cook ingredients. The technique affects how quickly the food cooks, as well as its flavor and texture. Most cooking techniques are useful in cooking meats, pastries, vegetables and fruits, and grains. Food is cooked for several reasons: Cooking tenderizes, softens, and makes food easier to digest. Cooking improves the appearance and flavor of foods. Cooking destroys harmful microorganisms making food safe. Cooking creates variety in meals. Food is cooked in five basic methods: moist heat, dry heat, combination heat, microwave, and solar.",
+  "cooking_methods": {
+    "moist_heat": {
+      "description": "Moist-heat cooking is a cooking method that transfers heat to food via water or steam. These methods enhance the natural flavor of foods.",
+      "techniques": {
+        "Poaching": "A moist-heat method of cooking in which food is simmered in water, or a flavorful liquid, in an open or covered pan, until the food is tender.",
+        "Steaming": "A moist-heat method of gently cooking food by placing food in a perforated basket above boiling water. Steaming adds no fat or calories. Seasonings can be added to the liquid to contribute to the flavor of steamed items.",
+        "Boiling": "A moist-heat method in which food is cooked in heated water (or other liquid), at a temperature at which the liquid is bubbling and turning to vapor.",
+        "Simmering": "A moist-heat method of cooking food in liquid at a temperature close to boiling, but not hot enough to create bubbles."
+      }
+    },
+    "dry_heat": {
+      "description": "Dry-heat cooking methods transfer heat to food via air, fat, metal, or radiation. Browning and caramelizing give foods a rich flavor.",
+      "techniques": {
+        "Sautéing": "A dry-method of cooking that involves quickly cooking tender foods (e.g., filet mignon, shellfish, onions, and garlic) on the stovetop in a small amount of fat over high heat. Low-sodium broth, cooking spray, and water can be substituted for oil.",
+        "Stir-frying": "A dry-heat method of cooking in which small, uniform pieces of food are fried in a wok, or a large nonstick frying pan, over high heat, with a small amount of oil. This type of cooking often involves broccoli, carrots, water chestnuts, sugar snap peas, bean sprouts, and more.",
+        "Deep-frying": "A dry-heat method of cooking in which food is submerged in hot fat or oil.",
+        "Pan-frying": "A dry-heat method of cooking in which food is cooked in a small amount of fat over direct heat.",
+        "Baking": "A dry-heat method of cooking in which food is placed in a dish, roasting pan, or sheet pan (without added fat) in a hot, dry oven. Food may be cooked covered or uncovered.",
+        "Broiling": "A dry-heat method of cooking that exposes food to direct, intense radiant heat from above. Broiling enables fat to drip away from the food. Grilling has similar results.",
+        "Roasting": "A dry-heat method of cooking that exposes food to prolonged high heat in an oven. Use of a rack in the roasting pan allows the fat to drip out of the meat. Roasting may require basting to prevent food from drying out.",
+        "Grilling": "A dry-heat method of outdoor cooking that exposes food to direct heat, enabling the fat to drip away. Before grilling, food items can be marinaded to add taste and texture. Foods selected for grilling must be inherently tender. As a healthier alternative, lemon juice and herbs can be substituted for barbecue sauce."
+      }
+    },
+    "combination": {
+      "description": "Combination cooking is a method that incorporates both dry- and moist-heat techniques.",
+      "techniques": {
+        "Braising": "A combination-heat method of cooking in which food is browned on the stovetop and then placed in an oven, with a small amount of liquid, to continue cooking. Braising is an excellent method for tenderizing cheaper and tougher cuts of meat.",
+        "Stewing": "A combination-heat method of cooking that requires searing meat and vegetables, and then simmering the mixture slowly in a small amount of liquid."
+      }
+    },
+    "microwave": {
+      "description": "Microwave cooking is rapid cooking that occurs when high frequency microwaves are passed through food or liquid. The waves penetrate food, causing food molecules to vibrate and generate heat. Because water easily absorbs microwaves, food with high water content cooks rapidly. Fat absorbs the microwave energy slower than water, so foods that are a mixture of fat and water cook unevenly. The cooking time is short and microwaves do not brown food."
+    },
+    "solar": {
+      "description": "A solar cooker is a device that cooks food using the heat from the sun. The most common design is a box oven that uses reflective material (such as aluminum foil) to reflect the sun's rays into an insulated box. The box, constructed from cardboard or metal, traps the heat and maximizes heat retention. No electricity or firewood is necessary. Solar cookers typically reach temperatures above 300°F and are suitable for baking, roasting, and simmering. They can cook meat, boil water, and bake bread. Solar cookers are lightweight, portable, and inexpensive. However, they are useless on a cloudy day, and inefficient on a cold and/or windy day."
+    }
+  },
+  "kitchen_tools": {
+    "appliances": {
+      "description": "A kitchen appliance is a piece of equipment, usually electric, used to perform a specific function in a kitchen. Appliances are created in various materials, color, shapes, sizes, and styles. Small kitchen appliances are designed to be used on kitchen countertops.",
+      "items": {
+        "Air fryer": "A countertop appliance that cooks foods by circulating hot air with a fan in contrast to deep fat frying meats, potatoes, fish, etc. Rapid Air Technology is the process that cooks the food: a heating element on top and a convection fan below ensures enough heated air to cook the food. Air fryers and bakers have increased in popularity primarily because they produce the flavor of deep-fried food, without the oil.",
+        "Immersion blender": "A hand-held device, resembling a stick with blades at the end of it, that is used to blend and/or purée. They can quickly blend a smoothie, a soup, a sauce, or a salad dressing. Immersion blenders are not new to the kitchen, but they have become increasingly popular.",
+        "Single-serve blender": "A jar (ranging in size from 14 to 32 ounces) placed over blades, that is used to efficiently prepare one serving of a smoothie or shake. There is no need to transfer the drink into another container. The jar can be taken on the go or it can be refrigerated.",
+        "Instant Pot": "A multi-cooker that performs as a slow cooker, electric pressure cooker, rice cooker, steamer, yogurt maker, sauté/browning pan, and warming pot. This appliance makes cooking faster and more convenient.",
+        "Yogurt maker": "A small countertop appliance, electric or non-electric, for making yogurt. A non-electric model requires the cook to find another way to heat the milk.",
+        "Popcorn popper": "Both an air popper and a stove top popper can be used to make fresh popcorn quickly. Popcorn toppings can be added, as desired.",
+        "Spiralizer": "A device that operates like a huge pencil sharpener to create noodle-like strands from vegetables (zucchini, apples, carrots, cucumbers, potatoes, etc.). Sometimes called 'produce pasta,' spiralized vegetables serve as an option to pasta, which is high in carbohydrates.",
+        "Food steamer": "An electric countertop appliance for home kitchens (or a piece of floor mounted equipment in a food service facility) that cooks food with steam heat in a closed device, or with steam heat under pressure. Because steamers cook without the addition of any extra fats or calories, they are a healthy method of cooking."
+      }
+    },
+    "gadgets": {
+      "description": "Gadgets are mechanical or electrical hand-held devices that have a singular practical use. They are considered specific 'kitchen technology.' Because there are numerous gadget options, consumers must decide which single-use gadgets give the best value for the money.",
+      "items": {
+        "Berry storage baskets": "Small ceramic, vented bins in which berries are washed and allowed to drain without the berries sitting in water. Some types have a removable inner basket that allows air circulation. Berry baskets are designed to extend the shelf life and quality of food by keeping condensation separate from the food.",
+        "Double steamers": "Gadgets for microwave ovens that allow the cook to prepare two separate dishes at one time. Both foods cook via steam simultaneously.",
+        "Herb de-stemmer": "A hand-held gadget that quickly removes the tough stems attached to herbs by pulling the leafy stems through the appropriately sized stainless steel hole in a BPA-free plastic holder. Thyme, oregano, cilantro, parsley, and even kale, collard greens, and Swiss chard can be de-stemmed.",
+        "Food huggers": "Silicone caps that fit over cut fruits and vegetables and open cans of food, in order to seal in freshness. Food huggers are BPA- and Phthalate-free containers. They keep cut foods from discoloring and they keep open cans of food from drying out.",
+        "Toss and Chop": "A combination of salad tongs and scissors that enable the cook to place all the salad ingredients in a bowl, and then cut the salad in the bowl while tossing. The blades do not damage the bowl and they do not need sharpening.",
+        "Fruit and vegetable corer": "A special curved and serrated knife gadget that removes cores and seeds. The sharp serrated blade is inserted into the food item, rotated, and the seeds and core pulled out.",
+        "Yolk extractor": "A hand tool that separates yolk from white. Yolk extractors are available in various materials (plastic, stainless steel, silicone) and in various shapes. This tool makes it easy to eliminate the yolks and cook with the whites."
+      }
+    }
+  }
+}

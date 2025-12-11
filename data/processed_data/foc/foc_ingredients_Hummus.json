@@ -1,0 +1,25 @@
+{
+  "dish_name": "Hummus",
+  "prep_time": "Preparation time 45 mins",
+  "cooking_time": "Cooking time 10 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Chick peas",
+      "quantity": "150 gm."
+    },
+    {
+      "item": "Olive oil",
+      "quantity": "24 gm."
+    },
+    {
+      "item": "Chickpea liquid",
+      "quantity": "250 ml."
+    },
+    {
+      "item": "Lemon juice",
+      "quantity": "5 ml."
+    }
+  ]
+}

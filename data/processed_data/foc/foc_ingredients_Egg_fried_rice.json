@@ -1,0 +1,57 @@
+{
+  "dish_name": "Egg fried rice",
+  "prep_time": "Preparation time: 60 mins",
+  "cooking_time": "Cooking time: 15 mins",
+  "portions": "4",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Boiled rice",
+      "quantity": "500 gm."
+    },
+    {
+      "item": "Spring onion",
+      "quantity": "3-4 stalks"
+    },
+    {
+      "item": "Soy sauce",
+      "quantity": "10 ml."
+    },
+    {
+      "item": "Schezwan sauce",
+      "quantity": "15 ml."
+    },
+    {
+      "item": "Rice vinegar",
+      "quantity": "8 ml."
+    },
+    {
+      "item": "eggs",
+      "quantity": "3"
+    },
+    {
+      "item": "Chopped garlic",
+      "quantity": "10 gm."
+    },
+    {
+      "item": "Chopped carrot",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Crushed black pepper",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Diced bell peppers",
+      "quantity": "125 gm."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Cabbage shredded",
+      "quantity": "125 gm."
+    }
+  ]
+}

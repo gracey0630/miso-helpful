@@ -1,0 +1,33 @@
+{
+  "dish_name": "Tea cake",
+  "prep_time": "Preparation time: 15 mins",
+  "cooking_time": "Baking time: 25-30 mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Butter",
+      "quantity": "200 gm."
+    },
+    {
+      "item": "Baking powder",
+      "quantity": "2 gm."
+    },
+    {
+      "item": "Flour",
+      "quantity": "200 gm."
+    },
+    {
+      "item": "Vanilla essence",
+      "quantity": "2 ml."
+    },
+    {
+      "item": "Icing sugar",
+      "quantity": "200 gm."
+    },
+    {
+      "item": "Egg",
+      "quantity": "2"
+    }
+  ]
+}

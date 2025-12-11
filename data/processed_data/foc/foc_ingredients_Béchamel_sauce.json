@@ -1,0 +1,33 @@
+{
+  "dish_name": "Béchamel sauce",
+  "prep_time": "Preparation time: 15 mins",
+  "cooking_time": "Cooking time: 10 mins",
+  "portions": "6",
+  "unit_size": "1",
+  "ingredients": [
+    {
+      "item": "Butter",
+      "quantity": "60 gm."
+    },
+    {
+      "item": "Parmesan cheese",
+      "quantity": "75 gm."
+    },
+    {
+      "item": "Flour",
+      "quantity": "85 gm."
+    },
+    {
+      "item": "Salt",
+      "quantity": "As per required"
+    },
+    {
+      "item": "Milk",
+      "quantity": "1 liter"
+    },
+    {
+      "item": "Nutmeg",
+      "quantity": "1 pinch"
+    }
+  ]
+}
