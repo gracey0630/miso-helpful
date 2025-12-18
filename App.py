@@ -1,66 +1,64 @@
 import streamlit as st
-from rag.rag_pipeline import answer_question # have to change this to reference whatever file is our rag file with the answer question function
+import sys
+from pathlib import Path
+
+# Add project root to path
+sys.path.insert(0, str(Path(__file__).parent))
+from src.rag.pipeline import rag_pipeline
 
 # -----------------------------
-# Page config
+# Initialize RAG (Cached)
 # -----------------------------
-st.set_page_config(
-    page_title="misohelpful 🍜",
-    page_icon="🍜",
-    layout="centered"
-)
+@st.cache_resource
+def get_pipeline():
+    return rag_pipeline
+
+cooking_bot = get_pipeline()
 
 # -----------------------------
-# Title & description
+# Page UI
 # -----------------------------
+st.set_page_config(page_title="misohelpful 🍜", page_icon="🍜")
+
 st.title("🍜 misohelpful")
-st.caption(
-    "A friendly cooking assistant that helps home cooks learn techniques, not just recipes."
-)
+st.caption("Local Cooking Assistant (No API Key Required)")
 
-# -----------------------------
-# Session state for chat history
-# -----------------------------
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# -----------------------------
-# Display chat history
-# -----------------------------
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+# Sidebar Feature from Friend's Script
+with st.sidebar:
+    st.header("⚙️ Options")
+    if st.button("🔄 Clear Chat"):
+        st.session_state.messages = []
+        st.rerun()
+    
+    st.divider()
+    st.markdown("### 💡 Try these:")
+    for q in [ "How do I properly sear chicken?",
+        "What ingredients pair well with lemon?",
+        "What are some healthy cooking methods?",
+        "Show me African dishes with ginger",
+        "What tools do I need for baking?"]:
+        
+        if st.button(q, use_container_width=True):
+            st.session_state.messages.append({"role": "user", "content": q})
+            st.rerun()
 
-# -----------------------------
-# User input box
-# -----------------------------
-user_prompt = st.chat_input(
-    "Ask a cooking question (e.g., 'How do I properly sear chicken?')"
-)
+# Display Chat
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.markdown(msg["content"])
 
-# -----------------------------
-# Handle user input
-# -----------------------------
-if user_prompt:
-    # Show user message
-    st.session_state.messages.append(
-        {"role": "user", "content": user_prompt}
-    )
+# Handle Input
+if prompt := st.chat_input("Ask a cooking question..."):
+    st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
-        st.markdown(user_prompt)
+        st.markdown(prompt)
 
-    # Show assistant thinking
     with st.chat_message("assistant"):
-        with st.spinner("Cooking up an answer... 🍲"):
-            try:
-                response = answer_question(user_prompt)
-            except Exception as e:
-                response = "Sorry, something went wrong. Please try again."
-                st.error(e)
-
-        st.markdown(response)
-
-    # Save assistant response
-    st.session_state.messages.append(
-        {"role": "assistant", "content": response}
-    )
+        with st.spinner("Whisking up an answer..."):
+            answer, sources = cooking_bot.answer_question(prompt)
+            full_text = f"{answer}\n\n**Sources:** {', '.join(sources)}"
+            st.markdown(full_text)
+            st.session_state.messages.append({"role": "assistant", "content": full_text})
