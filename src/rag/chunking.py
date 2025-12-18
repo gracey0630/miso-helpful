@@ -95,36 +95,85 @@ Ingredients:
         }
     }]
 
-def chunk_cuisine_ingredients_dict(data, source_file):
+def chunk_cuisine_ingredients_dict(cuisine_dict, source_file):
     """
-    Processes cuisine_ingredient_data.json.
-    Transforms lists of ingredients into descriptive regional culinary profiles.
+    Efficient chunking: Cuisine profiles + ingredient mappings
     """
     chunks = []
     
-    for cuisine, recipes in data.items():
-        # The notebook data is a list of lists (multiple recipes per cuisine)
-        # We'll flatten them or sample them to create a 'culinary profile'
-        all_ingredients = set()
-        for recipe in recipes:
-            for ing in recipe:
-                all_ingredients.add(ing.replace('_', ' '))
+    try:
+        from collections import defaultdict
         
-        ingredients_list = ", ".join(list(all_ingredients))
+        # --- 1. Cuisine profiles (one per cuisine) ---
+        for cuisine, recipe_list in cuisine_dict.items():
+            # Count ingredient frequency
+            ingredient_freq = defaultdict(int)
+            for recipe in recipe_list:
+                for ing in recipe:
+                    ingredient_freq[ing] += 1
+            
+            # Get top 15 ingredients
+            sorted_ingredients = sorted(ingredient_freq.items(), key=lambda x: x[1], reverse=True)
+            top_ingredients = sorted_ingredients[:15]
+            
+            # Format as simple list
+            ing_list = ', '.join([ing.replace('_', ' ').title() for ing, _ in top_ingredients])
+            
+            text = f"""{cuisine} Cuisine
+
+Common ingredients: {ing_list}
+
+Based on {len(recipe_list)} recipes with {len(ingredient_freq)} unique ingredients."""
+            
+            chunks.append({
+                'text': text,
+                'metadata': {
+                    'type': 'cuisine_profile',
+                    'cuisine': cuisine.lower(),
+                    'num_recipes': len(recipe_list),
+                    'source': source_file
+                }
+            })
         
-        # Create a descriptive text chunk
-        text = f"Cuisine Profile: {cuisine.title()}\n\n" \
-               f"Typical ingredients used in {cuisine.title()} cooking include: {ingredients_list}."
+        # --- 2. Ingredient-to-cuisine mappings ---
+        ingredient_to_cuisines = defaultdict(set)
         
-        chunks.append({
-            'text': text,
-            'metadata': {
-                'type': 'cuisine_profile',
-                'cuisine': cuisine,
-                'source': source_file
-            }
-        })
-    return chunks
+        for cuisine, recipe_list in cuisine_dict.items():
+            for recipe in recipe_list:
+                for ing in recipe:
+                    ingredient_to_cuisines[ing].add(cuisine)
+        
+        # Create chunks only for ingredients used in 2+ cuisines
+        for ingredient, cuisines in ingredient_to_cuisines.items():
+            if len(cuisines) >= 2:
+                ing_name = ingredient.replace('_', ' ').title()
+                cuisine_list = ', '.join(sorted(cuisines))
+                
+                text = f"""Ingredient: {ing_name}
+
+Found in {len(cuisines)} cuisines: {cuisine_list}
+
+This ingredient appears across multiple culinary traditions."""
+                
+                chunks.append({
+                    'text': text,
+                    'metadata': {
+                        'type': 'ingredient_cuisine_map',
+                        'ingredient': ingredient,
+                        'num_cuisines': len(cuisines),
+                        'source': source_file
+                    }
+                })
+        
+        cuisine_count = len(cuisine_dict)
+        ingredient_count = len([c for c in chunks if c['metadata']['type'] == 'ingredient_cuisine_map'])
+        
+        print(f"✓ Created {len(chunks)} chunks: {cuisine_count} cuisine profiles + {ingredient_count} ingredient mappings")
+        return chunks
+        
+    except Exception as e:
+        print(f"✗ Error processing cuisine data: {e}")
+        return []
 
 def chunk_ingredient_data_json(data, source_file):
     chunks = []

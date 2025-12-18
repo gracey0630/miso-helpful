@@ -47,7 +47,9 @@ class CookingDB:
             if os.path.exists(path):
                 with open(path, 'r') as f:
                     data = json.load(f)
-                all_chunks.extend(chunker(data, filename))
+                chunks = chunker(data, filename)
+                all_chunks.extend(chunks)
+                print(f"✓ Loaded {len(chunks)} chunks from {filename}")
 
         # 2. Recipes (foc folder)
         foc_path = os.path.join(processed_data_path, "foc")
@@ -56,42 +58,55 @@ class CookingDB:
                 if "sections" in file_path: continue # handled separately if needed
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                all_chunks.extend(chunk_recipe_json(data, os.path.basename(file_path)))
+                chunks = chunk_recipe_json(data, os.path.basename(file_path))
+                all_chunks.extend(chunks)
+                print(f"✓ Loaded {len(chunks)} chunks from {file_path}")
 
         # 3. Ingredient Pairings
         ing_path = os.path.join(processed_data_path, "ingredient_data.json")
         if os.path.exists(ing_path):
             with open(ing_path, 'r') as f:
                 data = json.load(f)
-            all_chunks.extend(chunk_ingredient_data_json(data, "ingredient_data.json"))
+            chunks = chunk_ingredient_data_json(data, "ingredient_data.json")
+            all_chunks.extend(chunks)
+        print(f"✓ Loaded {len(chunks)} chunks from ingredient_data.json")
 
         # 4. CSVs (Cooking Methods)
-        for csv_path in glob.glob(os.path.join(processed_data_path, "*.csv")):
-            all_chunks.extend(chunk_csv_simple(csv_path))
+        for csv_path in glob.glob(os.path.join(processed_data_path, "cooking_methods.csv")):
+            chunks = chunk_csv_simple(csv_path)
+            all_chunks.extend(chunks)
+        print(f"✓ Loaded {len(chunks)} chunks from cooking_methods.csv")
+
 
         # 5. Reddit Data
+        reddit_chunks = []
         reddit_path = os.path.join(processed_data_path, "reddit")
         if os.path.exists(reddit_path):
             for json_file in glob.glob(os.path.join(reddit_path, "*.json")):
-                all_chunks.extend(chunk_reddit_json(json_file))
+                chunks = chunk_reddit_json(json_file)
+                reddit_chunks.extend(chunks)
+                print(f"✓ Loaded {len(chunks)} chunks from {json_file}")
+        # Apply recursive chunking for long texts
+        reddit_chunks = apply_recursive_chunking(reddit_chunks)
+        print(f"✓ Loaded total of {len(reddit_chunks)} chunks from Reddit, after recursive chunking")
+        all_chunks.extend(reddit_chunks)
 
         # 6. Cuisine Ingredient Data
         cuisine_path = os.path.join(processed_data_path, "cuisine_ingredient_data.json")
         if os.path.exists(cuisine_path):
             with open(cuisine_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-            all_chunks.extend(chunk_cuisine_ingredients_dict(data, "cuisine_ingredient_data.json"))
-
-        # 6. Apply Recursive Splitting for long chunks
-        final_chunks = apply_recursive_chunking(all_chunks)
+            chunks = chunk_cuisine_ingredients_dict(data, "cuisine_ingredient_data.json")
+            all_chunks.extend(chunks)
+        print(f"✓ Loaded {len(chunks)} chunks from cuisine_ingredient_data.json")
 
         # 7. Batch Add to Chroma
-        if final_chunks:
-            print(f"Adding {len(final_chunks)} chunks to database...")
+        if all_chunks:
+            print(f"Adding {len(all_chunks)} chunks to database...")
             # Chroma handles batching, but for safety with large datasets:
             batch_size = 5000
-            for i in range(0, len(final_chunks), batch_size):
-                batch = final_chunks[i:i+batch_size]
+            for i in range(0, len(all_chunks), batch_size):
+                batch = all_chunks[i:i+batch_size]
                 print(f"   -> Processing batch {i} to {i+len(batch)}...")
                 self.collection.add(
                     documents=[c['text'] for c in batch],
