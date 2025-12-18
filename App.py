@@ -1,5 +1,6 @@
 import streamlit as st
 from rag.rag_pipeline import answer_question # have to change this to reference whatever file is our rag file with the answer question function
+# grace's function ask_cooking_assistant should work
 
 # -----------------------------
 # Page config
