@@ -7,6 +7,14 @@ sys.path.insert(0, str(Path(__file__).parent))
 from src.rag.pipeline import rag_pipeline
 
 # -----------------------------
+# Page UI
+# -----------------------------
+st.set_page_config(page_title="misohelpful 🍜", page_icon="🍜")
+
+st.title("🍜 misohelpful")
+st.caption("Local Cooking Assistant (No API Key Required)")
+
+# -----------------------------
 # Initialize RAG (Cached)
 # -----------------------------
 @st.cache_resource
@@ -14,14 +22,6 @@ def get_pipeline():
     return rag_pipeline
 
 cooking_bot = get_pipeline()
-
-# -----------------------------
-# Page UI
-# -----------------------------
-st.set_page_config(page_title="misohelpful 🍜", page_icon="🍜")
-
-st.title("🍜 misohelpful")
-st.caption("Local Cooking Assistant (No API Key Required)")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -62,3 +62,8 @@ if prompt := st.chat_input("Ask a cooking question..."):
             full_text = f"{answer}\n\n**Sources:** {', '.join(sources)}"
             st.markdown(full_text)
             st.session_state.messages.append({"role": "assistant", "content": full_text})
+
+# Clear user conversation history
+if st.button("Clear Chat History"):
+    cooking_bot.clear_history()  # Clears internal memory
+    st.session_state.messages = []  # Clears UI

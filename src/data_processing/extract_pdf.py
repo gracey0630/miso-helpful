@@ -159,7 +159,7 @@ def process_pdfs(raw_data_path, output_path):
         if all_tables:
             combined_df = pd.concat(all_tables, ignore_index=True, sort=False).fillna(np.nan)
             
-            # Logic from notebook: Shift columns to fix OCR alignment issues
+            # Shift columns to fix OCR alignment issues
             if 4 in combined_df.columns:
                 combined_df[2] = combined_df[2].fillna(combined_df[3])
                 combined_df[3] = combined_df[3].fillna(combined_df[4])
