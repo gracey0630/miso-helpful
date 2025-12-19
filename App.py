@@ -26,7 +26,7 @@ cooking_bot = get_pipeline()
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Sidebar Feature from Friend's Script
+# Sidebar Feature
 with st.sidebar:
     st.header("⚙️ Options")
     if st.button("🔄 Clear Chat"):
