@@ -265,6 +265,30 @@ def chunk_reddit_json(file_path):
         return []
     return chunks
 
+def chunk_3a2m_recipe_json(data, source_file):
+    """
+    Handles 3A2M recipe format - simple recipe name + directions
+    Based on the 3a2m_cooking_recipe_data_chunking.py approach
+    """
+    chunks = []
+    
+    # Single chunk per recipe with name and directions
+    recipe_text = (
+        f"Recipe: {data.get('recipe_name', 'Unknown')}\n"
+        f"Directions: {data.get('directions', 'No directions available')}"
+    )
+    
+    chunks.append({
+        'text': recipe_text,
+        'metadata': {
+            'type': 'recipe',
+            'name': data.get('recipe_name', 'Unknown'),
+            'source': source_file
+        }
+    })
+    
+    return chunks
+
 def apply_recursive_chunking(chunks, chunk_size=500, chunk_overlap=50):
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,

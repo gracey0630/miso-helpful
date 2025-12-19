@@ -7,7 +7,7 @@ from chromadb.utils import embedding_functions
 from pathlib import Path
 from .chunking import (
     chunk_cuisine_ingredients_dict, chunk_fcs_json, chunk_recipe_json, chunk_ingredient_data_json, 
-    chunk_csv_simple, chunk_reddit_json, apply_recursive_chunking
+    chunk_csv_simple, chunk_reddit_json, chunk_3a2m_recipe_json, apply_recursive_chunking
 )
 
 class CookingDB:
@@ -51,7 +51,7 @@ class CookingDB:
                 all_chunks.extend(chunks)
                 print(f"✓ Loaded {len(chunks)} chunks from {filename}")
 
-        # 2. Recipes (foc folder)
+        # 2a. Recipes (foc folder)
         foc_path = os.path.join(processed_data_path, "foc")
         if os.path.exists(foc_path):
             for file_path in glob.glob(os.path.join(foc_path, "*.json")):
@@ -61,6 +61,23 @@ class CookingDB:
                 chunks = chunk_recipe_json(data, os.path.basename(file_path))
                 all_chunks.extend(chunks)
                 print(f"✓ Loaded {len(chunks)} chunks from {file_path}")
+
+        # 2b. 3A2M Recipes
+        recipes_3a2m_path = os.path.join(processed_data_path, "3a2m_recipe_data.json")
+        if os.path.exists(recipes_3a2m_path):
+            try:
+                with open(recipes_3a2m_path, 'r', encoding='utf-8') as f:
+                    recipe_array = json.load(f)  # Load array of recipes
+                
+                recipe_count = 0
+                for recipe_data in recipe_array:
+                    chunks = chunk_3a2m_recipe_json(recipe_data, "3a2m_recipe_data.json")
+                    all_chunks.extend(chunks)
+                    recipe_count += 1
+                
+                print(f"✓ Loaded {recipe_count} 3A2M recipes")
+            except Exception as e:
+                print(f"✗ Error loading 3A2M recipes: {e}")
 
         # 3. Ingredient Pairings
         ing_path = os.path.join(processed_data_path, "ingredient_data.json")
