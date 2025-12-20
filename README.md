@@ -47,7 +47,7 @@ streamlit run App.py
 
 The application will be available at `http://localhost:8501`
 
-### Public Access via Cloudflare Tunnel
+### Public Access via Cloudflare Tunnel (Colab, etc.)
 
 For public access to your chatbot, use Cloudflare Tunnel:
 
@@ -77,6 +77,7 @@ To stop the Streamlit server:
 ```bash
 kill $(lsof -t -i:8501)
 ```
+or ctrl + c 
 
 ## Features
 
@@ -89,6 +90,8 @@ kill $(lsof -t -i:8501)
 
 ```
 miso-helpful/
+├── src                 # Main code folder
+├── data                # Raw and processed data
 ├── App.py              # Main Streamlit application
 ├── setup.py            # Setup and configuration script
 ├── requirements.txt    # Python dependencies
