@@ -1,0 +1,4493 @@
+{
+  "ingredient_pairs": [
+    {
+      "ingredient1": "orange",
+      "ingredient2": "orange_peel",
+      "num_shared_compound": 14
+    },
+    {
+      "ingredient1": "orange",
+      "ingredient2": "orange_juice",
+      "num_shared_compound": 54
+    },
+    {
+      "ingredient1": "citrus",
+      "ingredient2": "orange",
+      "num_shared_compound": 51
+    },
+    {
+      "ingredient1": "citrus_peel",
+      "ingredient2": "orange",
+      "num_shared_compound": 40
+    },
+    {
+      "ingredient1": "nutmeg",
+      "ingredient2": "orange",
+      "num_shared_compound": 19
+    },
+    {
+      "ingredient1": "bergamot",
+      "ingredient2": "orange",
+      "num_shared_compound": 9
+    },
+    {
+      "ingredient1": "orange",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 69
+    },
+    {
+      "ingredient1": "grapefruit",
+      "ingredient2": "orange",
+      "num_shared_compound": 30
+    },
+    {
+      "ingredient1": "mandarin",
+      "ingredient2": "orange",
+      "num_shared_compound": 57
+    },
+    {
+      "ingredient1": "lemon_peel",
+      "ingredient2": "orange",
+      "num_shared_compound": 8
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "orange",
+      "num_shared_compound": 67
+    },
+    {
+      "ingredient1": "lime",
+      "ingredient2": "orange",
+      "num_shared_compound": 56
+    },
+    {
+      "ingredient1": "bitter_orange",
+      "ingredient2": "orange",
+      "num_shared_compound": 23
+    },
+    {
+      "ingredient1": "basil",
+      "ingredient2": "orange",
+      "num_shared_compound": 10
+    },
+    {
+      "ingredient1": "orange",
+      "ingredient2": "tangerine",
+      "num_shared_compound": 62
+    },
+    {
+      "ingredient1": "lemon",
+      "ingredient2": "orange",
+      "num_shared_compound": 69
+    },
+    {
+      "ingredient1": "cinnamon",
+      "ingredient2": "tarragon",
+      "num_shared_compound": 7
+    },
+    {
+      "ingredient1": "anise",
+      "ingredient2": "cinnamon",
+      "num_shared_compound": 10
+    },
+    {
+      "ingredient1": "cinnamon",
+      "ingredient2": "ginger",
+      "num_shared_compound": 23
+    },
+    {
+      "ingredient1": "cinnamon",
+      "ingredient2": "fennel",
+      "num_shared_compound": 10
+    },
+    {
+      "ingredient1": "cinnamon",
+      "ingredient2": "nutmeg",
+      "num_shared_compound": 20
+    },
+    {
+      "ingredient1": "cinnamon",
+      "ingredient2": "guava",
+      "num_shared_compound": 25
+    },
+    {
+      "ingredient1": "cinnamon",
+      "ingredient2": "star_anise",
+      "num_shared_compound": 7
+    },
+    {
+      "ingredient1": "anise",
+      "ingredient2": "star_anise",
+      "num_shared_compound": 7
+    },
+    {
+      "ingredient1": "anise",
+      "ingredient2": "clove",
+      "num_shared_compound": 9
+    },
+    {
+      "ingredient1": "ginger",
+      "ingredient2": "marjoram",
+      "num_shared_compound": 18
+    },
+    {
+      "ingredient1": "ginger",
+      "ingredient2": "nutmeg",
+      "num_shared_compound": 22
+    },
+    {
+      "ingredient1": "ginger",
+      "ingredient2": "rosemary",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "ginger",
+      "ingredient2": "mace",
+      "num_shared_compound": 16
+    },
+    {
+      "ingredient1": "fennel",
+      "ingredient2": "star_anise",
+      "num_shared_compound": 7
+    },
+    {
+      "ingredient1": "mace",
+      "ingredient2": "nutmeg",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "nutmeg",
+      "ingredient2": "seed",
+      "num_shared_compound": 12
+    },
+    {
+      "ingredient1": "black_sesame_seed",
+      "ingredient2": "nutmeg",
+      "num_shared_compound": 12
+    },
+    {
+      "ingredient1": "nutmeg",
+      "ingredient2": "rapeseed",
+      "num_shared_compound": 12
+    },
+    {
+      "ingredient1": "guava",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 83
+    },
+    {
+      "ingredient1": "guava",
+      "ingredient2": "nectarine",
+      "num_shared_compound": 32
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "guava",
+      "num_shared_compound": 82
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "cherry",
+      "num_shared_compound": 31
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "cabernet_sauvignon_wine",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "orange_juice",
+      "num_shared_compound": 30
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 105
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "pineapple",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "grape",
+      "num_shared_compound": 79
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "cognac",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "melon",
+      "num_shared_compound": 71
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "apple_brandy",
+      "num_shared_compound": 14
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "cider",
+      "num_shared_compound": 59
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 114
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "quince",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "bartlett_pear",
+      "num_shared_compound": 44
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "banana",
+      "num_shared_compound": 85
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "pear",
+      "num_shared_compound": 44
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "concord_grape",
+      "num_shared_compound": 80
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "plum",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "muscat_grape",
+      "num_shared_compound": 81
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "honey",
+      "num_shared_compound": 41
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "nectarine",
+      "num_shared_compound": 32
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "beer",
+      "num_shared_compound": 91
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "kiwi",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "apple",
+      "ingredient2": "apricot",
+      "num_shared_compound": 74
+    },
+    {
+      "ingredient1": "pork",
+      "ingredient2": "roasted_pork",
+      "num_shared_compound": 115
+    },
+    {
+      "ingredient1": "raw_beef",
+      "ingredient2": "roasted_pork",
+      "num_shared_compound": 100
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "roasted_pork",
+      "num_shared_compound": 100
+    },
+    {
+      "ingredient1": "bacon",
+      "ingredient2": "roasted_pork",
+      "num_shared_compound": 115
+    },
+    {
+      "ingredient1": "cured_pork",
+      "ingredient2": "roasted_pork",
+      "num_shared_compound": 115
+    },
+    {
+      "ingredient1": "chicken",
+      "ingredient2": "roasted_pork",
+      "num_shared_compound": 81
+    },
+    {
+      "ingredient1": "roasted_beef",
+      "ingredient2": "roasted_pork",
+      "num_shared_compound": 100
+    },
+    {
+      "ingredient1": "pork_sausage",
+      "ingredient2": "roasted_pork",
+      "num_shared_compound": 115
+    },
+    {
+      "ingredient1": "chicken",
+      "ingredient2": "pork",
+      "num_shared_compound": 80
+    },
+    {
+      "ingredient1": "pork",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 97
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "pork",
+      "num_shared_compound": 97
+    },
+    {
+      "ingredient1": "bacon",
+      "ingredient2": "pork",
+      "num_shared_compound": 115
+    },
+    {
+      "ingredient1": "cured_pork",
+      "ingredient2": "pork",
+      "num_shared_compound": 115
+    },
+    {
+      "ingredient1": "pork",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 97
+    },
+    {
+      "ingredient1": "pork",
+      "ingredient2": "pork_sausage",
+      "num_shared_compound": 115
+    },
+    {
+      "ingredient1": "chicken",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 98
+    },
+    {
+      "ingredient1": "lamb",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 58
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 199
+    },
+    {
+      "ingredient1": "raw_beef",
+      "ingredient2": "roasted_peanut",
+      "num_shared_compound": 99
+    },
+    {
+      "ingredient1": "caviar",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 18
+    },
+    {
+      "ingredient1": "peanut",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 72
+    },
+    {
+      "ingredient1": "bacon",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 102
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 102
+    },
+    {
+      "ingredient1": "onion",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 30
+    },
+    {
+      "ingredient1": "cured_pork",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 103
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 102
+    },
+    {
+      "ingredient1": "baked_potato",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 78
+    },
+    {
+      "ingredient1": "peanut_butter",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 99
+    },
+    {
+      "ingredient1": "raw_beef",
+      "ingredient2": "soybean",
+      "num_shared_compound": 96
+    },
+    {
+      "ingredient1": "raw_beef",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 199
+    },
+    {
+      "ingredient1": "pork_sausage",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 101
+    },
+    {
+      "ingredient1": "pork_liver",
+      "ingredient2": "raw_beef",
+      "num_shared_compound": 16
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "chicken",
+      "num_shared_compound": 98
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "peanut",
+      "num_shared_compound": 72
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "coffee",
+      "num_shared_compound": 102
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "peanut_butter",
+      "num_shared_compound": 99
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "onion",
+      "num_shared_compound": 30
+    },
+    {
+      "ingredient1": "bacon",
+      "ingredient2": "beef",
+      "num_shared_compound": 102
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "roasted_peanut",
+      "num_shared_compound": 99
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "soybean",
+      "num_shared_compound": 96
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "lamb",
+      "num_shared_compound": 58
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "caviar",
+      "num_shared_compound": 18
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "cured_pork",
+      "num_shared_compound": 103
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "beer",
+      "num_shared_compound": 102
+    },
+    {
+      "ingredient1": "baked_potato",
+      "ingredient2": "beef",
+      "num_shared_compound": 78
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 199
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "pork_sausage",
+      "num_shared_compound": 101
+    },
+    {
+      "ingredient1": "beef",
+      "ingredient2": "pork_liver",
+      "num_shared_compound": 16
+    },
+    {
+      "ingredient1": "bacon",
+      "ingredient2": "chicken",
+      "num_shared_compound": 84
+    },
+    {
+      "ingredient1": "bacon",
+      "ingredient2": "cured_pork",
+      "num_shared_compound": 115
+    },
+    {
+      "ingredient1": "bacon",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 102
+    },
+    {
+      "ingredient1": "bacon",
+      "ingredient2": "pork_sausage",
+      "num_shared_compound": 119
+    },
+    {
+      "ingredient1": "chicken",
+      "ingredient2": "cured_pork",
+      "num_shared_compound": 83
+    },
+    {
+      "ingredient1": "cured_pork",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 105
+    },
+    {
+      "ingredient1": "cured_pork",
+      "ingredient2": "pork_sausage",
+      "num_shared_compound": 115
+    },
+    {
+      "ingredient1": "chicken",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 99
+    },
+    {
+      "ingredient1": "chicken",
+      "ingredient2": "pork_sausage",
+      "num_shared_compound": 84
+    },
+    {
+      "ingredient1": "milk",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 77
+    },
+    {
+      "ingredient1": "peanut",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 74
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 105
+    },
+    {
+      "ingredient1": "peanut_butter",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 105
+    },
+    {
+      "ingredient1": "onion",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 32
+    },
+    {
+      "ingredient1": "roasted_beef",
+      "ingredient2": "roasted_peanut",
+      "num_shared_compound": 105
+    },
+    {
+      "ingredient1": "roasted_beef",
+      "ingredient2": "soybean",
+      "num_shared_compound": 100
+    },
+    {
+      "ingredient1": "caviar",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 18
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 106
+    },
+    {
+      "ingredient1": "lamb",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 58
+    },
+    {
+      "ingredient1": "roasted_beef",
+      "ingredient2": "sturgeon_caviar",
+      "num_shared_compound": 19
+    },
+    {
+      "ingredient1": "roasted_beef",
+      "ingredient2": "shallot",
+      "num_shared_compound": 10
+    },
+    {
+      "ingredient1": "baked_potato",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 79
+    },
+    {
+      "ingredient1": "garlic",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 11
+    },
+    {
+      "ingredient1": "pork_sausage",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 101
+    },
+    {
+      "ingredient1": "butter",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 81
+    },
+    {
+      "ingredient1": "potato",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 66
+    },
+    {
+      "ingredient1": "potato_chip",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 24
+    },
+    {
+      "ingredient1": "pork_liver",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 16
+    },
+    {
+      "ingredient1": "egg",
+      "ingredient2": "roasted_beef",
+      "num_shared_compound": 42
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "jamaican_rum",
+      "num_shared_compound": 88
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "rum",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 165
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "cider",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "port_wine",
+      "num_shared_compound": 133
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 155
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "champagne_wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "whiskey",
+      "num_shared_compound": 68
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "cabernet_sauvignon_wine",
+      "num_shared_compound": 107
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "cognac",
+      "num_shared_compound": 94
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "pineapple",
+      "num_shared_compound": 55
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "sherry",
+      "num_shared_compound": 138
+    },
+    {
+      "ingredient1": "apple_brandy",
+      "ingredient2": "cabernet_sauvignon_wine",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "cabernet_sauvignon_wine",
+      "ingredient2": "wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "jamaican_rum",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 100
+    },
+    {
+      "ingredient1": "cognac",
+      "ingredient2": "jamaican_rum",
+      "num_shared_compound": 96
+    },
+    {
+      "ingredient1": "apple_brandy",
+      "ingredient2": "jamaican_rum",
+      "num_shared_compound": 15
+    },
+    {
+      "ingredient1": "cider",
+      "ingredient2": "jamaican_rum",
+      "num_shared_compound": 54
+    },
+    {
+      "ingredient1": "jamaican_rum",
+      "ingredient2": "rum",
+      "num_shared_compound": 175
+    },
+    {
+      "ingredient1": "champagne_wine",
+      "ingredient2": "jamaican_rum",
+      "num_shared_compound": 78
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "jamaican_rum",
+      "num_shared_compound": 88
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "jamaican_rum",
+      "num_shared_compound": 89
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "jamaican_rum",
+      "num_shared_compound": 104
+    },
+    {
+      "ingredient1": "jamaican_rum",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 88
+    },
+    {
+      "ingredient1": "jamaican_rum",
+      "ingredient2": "port_wine",
+      "num_shared_compound": 85
+    },
+    {
+      "ingredient1": "jamaican_rum",
+      "ingredient2": "whiskey",
+      "num_shared_compound": 79
+    },
+    {
+      "ingredient1": "jamaican_rum",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 92
+    },
+    {
+      "ingredient1": "jamaican_rum",
+      "ingredient2": "sherry",
+      "num_shared_compound": 90
+    },
+    {
+      "ingredient1": "jamaican_rum",
+      "ingredient2": "wine",
+      "num_shared_compound": 78
+    },
+    {
+      "ingredient1": "rum",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 98
+    },
+    {
+      "ingredient1": "cognac",
+      "ingredient2": "rum",
+      "num_shared_compound": 94
+    },
+    {
+      "ingredient1": "apple_brandy",
+      "ingredient2": "rum",
+      "num_shared_compound": 15
+    },
+    {
+      "ingredient1": "cider",
+      "ingredient2": "rum",
+      "num_shared_compound": 54
+    },
+    {
+      "ingredient1": "red_wine",
+      "ingredient2": "rum",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "port_wine",
+      "ingredient2": "rum",
+      "num_shared_compound": 83
+    },
+    {
+      "ingredient1": "rum",
+      "ingredient2": "whiskey",
+      "num_shared_compound": 76
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "rum",
+      "num_shared_compound": 103
+    },
+    {
+      "ingredient1": "parmesan_cheese",
+      "ingredient2": "rum",
+      "num_shared_compound": 90
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "rum",
+      "num_shared_compound": 88
+    },
+    {
+      "ingredient1": "rum",
+      "ingredient2": "sherry",
+      "num_shared_compound": 87
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "rum",
+      "num_shared_compound": 88
+    },
+    {
+      "ingredient1": "red_wine",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 155
+    },
+    {
+      "ingredient1": "pineapple",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 55
+    },
+    {
+      "ingredient1": "cognac",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 94
+    },
+    {
+      "ingredient1": "apple_brandy",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "cider",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "champagne_wine",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 106
+    },
+    {
+      "ingredient1": "red_wine",
+      "ingredient2": "whiskey",
+      "num_shared_compound": 68
+    },
+    {
+      "ingredient1": "port_wine",
+      "ingredient2": "red_wine",
+      "num_shared_compound": 133
+    },
+    {
+      "ingredient1": "red_wine",
+      "ingredient2": "sherry",
+      "num_shared_compound": 138
+    },
+    {
+      "ingredient1": "red_wine",
+      "ingredient2": "wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "cider",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 59
+    },
+    {
+      "ingredient1": "cider",
+      "ingredient2": "cognac",
+      "num_shared_compound": 55
+    },
+    {
+      "ingredient1": "apple_brandy",
+      "ingredient2": "cider",
+      "num_shared_compound": 15
+    },
+    {
+      "ingredient1": "cider",
+      "ingredient2": "port_wine",
+      "num_shared_compound": 49
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "cider",
+      "num_shared_compound": 50
+    },
+    {
+      "ingredient1": "cider",
+      "ingredient2": "sherry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "port_wine",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 135
+    },
+    {
+      "ingredient1": "cognac",
+      "ingredient2": "port_wine",
+      "num_shared_compound": 90
+    },
+    {
+      "ingredient1": "apple_brandy",
+      "ingredient2": "port_wine",
+      "num_shared_compound": 15
+    },
+    {
+      "ingredient1": "champagne_wine",
+      "ingredient2": "port_wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "port_wine",
+      "num_shared_compound": 90
+    },
+    {
+      "ingredient1": "port_wine",
+      "ingredient2": "sherry",
+      "num_shared_compound": 131
+    },
+    {
+      "ingredient1": "port_wine",
+      "ingredient2": "wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "cocoa",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 98
+    },
+    {
+      "ingredient1": "passion_fruit",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 74
+    },
+    {
+      "ingredient1": "whiskey",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 72
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 118
+    },
+    {
+      "ingredient1": "cognac",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 107
+    },
+    {
+      "ingredient1": "sherry",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 139
+    },
+    {
+      "ingredient1": "muscat_grape",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 80
+    },
+    {
+      "ingredient1": "champagne_wine",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "brandy",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 19
+    },
+    {
+      "ingredient1": "apple_brandy",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "parmesan_cheese",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 98
+    },
+    {
+      "ingredient1": "strawberry",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 99
+    },
+    {
+      "ingredient1": "pineapple",
+      "ingredient2": "white_wine",
+      "num_shared_compound": 62
+    },
+    {
+      "ingredient1": "white_wine",
+      "ingredient2": "wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "champagne_wine",
+      "ingredient2": "cognac",
+      "num_shared_compound": 82
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "champagne_wine",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "champagne_wine",
+      "ingredient2": "sherry",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "champagne_wine",
+      "ingredient2": "wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "cognac",
+      "ingredient2": "whiskey",
+      "num_shared_compound": 71
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "whiskey",
+      "num_shared_compound": 70
+    },
+    {
+      "ingredient1": "parmesan_cheese",
+      "ingredient2": "whiskey",
+      "num_shared_compound": 67
+    },
+    {
+      "ingredient1": "sherry",
+      "ingredient2": "whiskey",
+      "num_shared_compound": 69
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "milk",
+      "num_shared_compound": 78
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "katsuobushi",
+      "num_shared_compound": 23
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "cognac",
+      "num_shared_compound": 99
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "coffee",
+      "num_shared_compound": 101
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 95
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "blue_cheese",
+      "num_shared_compound": 102
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "cheddar_cheese",
+      "num_shared_compound": 97
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "cocoa",
+      "num_shared_compound": 94
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "hop",
+      "num_shared_compound": 62
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "sherry",
+      "num_shared_compound": 103
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 101
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "malt",
+      "num_shared_compound": 60
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "pork_liver",
+      "num_shared_compound": 14
+    },
+    {
+      "ingredient1": "beer",
+      "ingredient2": "wine",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "cognac",
+      "ingredient2": "grape_brandy",
+      "num_shared_compound": 6
+    },
+    {
+      "ingredient1": "cognac",
+      "ingredient2": "sherry",
+      "num_shared_compound": 90
+    },
+    {
+      "ingredient1": "apple_brandy",
+      "ingredient2": "cognac",
+      "num_shared_compound": 16
+    },
+    {
+      "ingredient1": "cognac",
+      "ingredient2": "wine",
+      "num_shared_compound": 82
+    },
+    {
+      "ingredient1": "pineapple",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 67
+    },
+    {
+      "ingredient1": "apple_brandy",
+      "ingredient2": "sherry",
+      "num_shared_compound": 15
+    },
+    {
+      "ingredient1": "sherry",
+      "ingredient2": "wine",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "rye_bread",
+      "ingredient2": "wheat_bread",
+      "num_shared_compound": 62
+    },
+    {
+      "ingredient1": "bread",
+      "ingredient2": "rye_bread",
+      "num_shared_compound": 51
+    },
+    {
+      "ingredient1": "bread",
+      "ingredient2": "wheat_bread",
+      "num_shared_compound": 51
+    },
+    {
+      "ingredient1": "bread",
+      "ingredient2": "white_bread",
+      "num_shared_compound": 51
+    },
+    {
+      "ingredient1": "cocoa",
+      "ingredient2": "katsuobushi",
+      "num_shared_compound": 23
+    },
+    {
+      "ingredient1": "cocoa",
+      "ingredient2": "coffee",
+      "num_shared_compound": 95
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "cocoa",
+      "num_shared_compound": 85
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "katsuobushi",
+      "num_shared_compound": 26
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "geranium",
+      "num_shared_compound": 11
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "coffee",
+      "num_shared_compound": 102
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "thyme",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "citrus_peel",
+      "num_shared_compound": 33
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "vanilla",
+      "num_shared_compound": 45
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "tea",
+      "num_shared_compound": 171
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "peppermint",
+      "num_shared_compound": 33
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "lemon_peel",
+      "num_shared_compound": 8
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "jasmine_tea",
+      "num_shared_compound": 172
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "jasmine",
+      "num_shared_compound": 10
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "raspberry",
+      "num_shared_compound": 81
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "lingonberry",
+      "num_shared_compound": 11
+    },
+    {
+      "ingredient1": "bell_pepper",
+      "ingredient2": "black_tea",
+      "num_shared_compound": 41
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "peppermint_oil",
+      "num_shared_compound": 21
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "soybean",
+      "num_shared_compound": 96
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "passion_fruit",
+      "num_shared_compound": 72
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "mint",
+      "num_shared_compound": 24
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "strawberry_jam",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "okra",
+      "num_shared_compound": 18
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "japanese_plum",
+      "num_shared_compound": 7
+    },
+    {
+      "ingredient1": "basil",
+      "ingredient2": "black_tea",
+      "num_shared_compound": 11
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "green_tea",
+      "num_shared_compound": 177
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "spearmint",
+      "num_shared_compound": 23
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "tomato",
+      "num_shared_compound": 84
+    },
+    {
+      "ingredient1": "black_tea",
+      "ingredient2": "mango",
+      "num_shared_compound": 79
+    },
+    {
+      "ingredient1": "passion_fruit",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 76
+    },
+    {
+      "ingredient1": "passion_fruit",
+      "ingredient2": "quince",
+      "num_shared_compound": 35
+    },
+    {
+      "ingredient1": "grape",
+      "ingredient2": "muscat_grape",
+      "num_shared_compound": 125
+    },
+    {
+      "ingredient1": "muscat_grape",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 85
+    },
+    {
+      "ingredient1": "concord_grape",
+      "ingredient2": "muscat_grape",
+      "num_shared_compound": 125
+    },
+    {
+      "ingredient1": "milk",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 79
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "parmesan_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 137
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 134
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "parmesan_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "parmesan_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "parmesan_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 131
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "gruyere_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 134
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "goat_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "mozzarella_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "parmesan_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "munster_cheese",
+      "ingredient2": "parmesan_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "grape",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 84
+    },
+    {
+      "ingredient1": "huckleberry",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "melon",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 67
+    },
+    {
+      "ingredient1": "juniper_berry",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "blackberry",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 72
+    },
+    {
+      "ingredient1": "black_currant",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 62
+    },
+    {
+      "ingredient1": "honey",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 40
+    },
+    {
+      "ingredient1": "elderberry",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 59
+    },
+    {
+      "ingredient1": "nectarine",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 40
+    },
+    {
+      "ingredient1": "bitter_orange",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 25
+    },
+    {
+      "ingredient1": "quince",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 35
+    },
+    {
+      "ingredient1": "bartlett_pear",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 38
+    },
+    {
+      "ingredient1": "banana",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 69
+    },
+    {
+      "ingredient1": "kiwi",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 39
+    },
+    {
+      "ingredient1": "papaya",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 71
+    },
+    {
+      "ingredient1": "pear",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 38
+    },
+    {
+      "ingredient1": "strawberry",
+      "ingredient2": "tangerine",
+      "num_shared_compound": 41
+    },
+    {
+      "ingredient1": "olive",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 47
+    },
+    {
+      "ingredient1": "raspberry",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 89
+    },
+    {
+      "ingredient1": "concord_grape",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 87
+    },
+    {
+      "ingredient1": "apricot",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 70
+    },
+    {
+      "ingredient1": "plum",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 63
+    },
+    {
+      "ingredient1": "blueberry",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 58
+    },
+    {
+      "ingredient1": "black_raspberry",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "mango",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 82
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "cranberry",
+      "ingredient2": "strawberry",
+      "num_shared_compound": 78
+    },
+    {
+      "ingredient1": "matsutake",
+      "ingredient2": "porcini",
+      "num_shared_compound": 117
+    },
+    {
+      "ingredient1": "enokidake",
+      "ingredient2": "porcini",
+      "num_shared_compound": 117
+    },
+    {
+      "ingredient1": "porcini",
+      "ingredient2": "shiitake",
+      "num_shared_compound": 117
+    },
+    {
+      "ingredient1": "mushroom",
+      "ingredient2": "porcini",
+      "num_shared_compound": 117
+    },
+    {
+      "ingredient1": "matsutake",
+      "ingredient2": "shiitake",
+      "num_shared_compound": 118
+    },
+    {
+      "ingredient1": "enokidake",
+      "ingredient2": "matsutake",
+      "num_shared_compound": 117
+    },
+    {
+      "ingredient1": "matsutake",
+      "ingredient2": "mushroom",
+      "num_shared_compound": 117
+    },
+    {
+      "ingredient1": "enokidake",
+      "ingredient2": "shiitake",
+      "num_shared_compound": 117
+    },
+    {
+      "ingredient1": "enokidake",
+      "ingredient2": "mushroom",
+      "num_shared_compound": 117
+    },
+    {
+      "ingredient1": "mushroom",
+      "ingredient2": "shiitake",
+      "num_shared_compound": 117
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "milk",
+      "num_shared_compound": 76
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "milk",
+      "num_shared_compound": 76
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "cheddar_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 136
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "cheddar_cheese",
+      "num_shared_compound": 142
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "feta_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "cream",
+      "num_shared_compound": 28
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "emmental_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "buttermilk",
+      "ingredient2": "cheddar_cheese",
+      "num_shared_compound": 12
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "cottage_cheese",
+      "num_shared_compound": 131
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "goat_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "cream_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheddar_cheese",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "camembert_cheese",
+      "num_shared_compound": 132
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 134
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "cream",
+      "num_shared_compound": 27
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 133
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "cottage_cheese",
+      "num_shared_compound": 131
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "buttermilk",
+      "num_shared_compound": 12
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "goat_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "cream_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 131
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "feta_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "emmental_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "blue_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "katsuobushi",
+      "num_shared_compound": 32
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "roasted_peanut",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "jasmine_tea",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "tea",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "green_tea",
+      "num_shared_compound": 93
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "okra",
+      "num_shared_compound": 21
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "wood",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "peanut_butter",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "popcorn",
+      "num_shared_compound": 25
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "squid",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "coffee",
+      "ingredient2": "pork_liver",
+      "num_shared_compound": 21
+    },
+    {
+      "ingredient1": "peanut",
+      "ingredient2": "roasted_peanut",
+      "num_shared_compound": 97
+    },
+    {
+      "ingredient1": "peanut_butter",
+      "ingredient2": "roasted_peanut",
+      "num_shared_compound": 144
+    },
+    {
+      "ingredient1": "potato_chip",
+      "ingredient2": "roasted_peanut",
+      "num_shared_compound": 23
+    },
+    {
+      "ingredient1": "roasted_peanut",
+      "ingredient2": "soybean",
+      "num_shared_compound": 88
+    },
+    {
+      "ingredient1": "popcorn",
+      "ingredient2": "roasted_peanut",
+      "num_shared_compound": 23
+    },
+    {
+      "ingredient1": "pork_liver",
+      "ingredient2": "roasted_peanut",
+      "num_shared_compound": 15
+    },
+    {
+      "ingredient1": "caviar",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 18
+    },
+    {
+      "ingredient1": "caviar",
+      "ingredient2": "sturgeon_caviar",
+      "num_shared_compound": 21
+    },
+    {
+      "ingredient1": "caviar",
+      "ingredient2": "salmon",
+      "num_shared_compound": 18
+    },
+    {
+      "ingredient1": "caviar",
+      "ingredient2": "tuna",
+      "num_shared_compound": 18
+    },
+    {
+      "ingredient1": "peanut",
+      "ingredient2": "peanut_butter",
+      "num_shared_compound": 97
+    },
+    {
+      "ingredient1": "onion",
+      "ingredient2": "shallot",
+      "num_shared_compound": 12
+    },
+    {
+      "ingredient1": "garlic",
+      "ingredient2": "onion",
+      "num_shared_compound": 16
+    },
+    {
+      "ingredient1": "chive",
+      "ingredient2": "onion",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "baked_potato",
+      "ingredient2": "potato",
+      "num_shared_compound": 97
+    },
+    {
+      "ingredient1": "peanut_butter",
+      "ingredient2": "potato_chip",
+      "num_shared_compound": 23
+    },
+    {
+      "ingredient1": "peanut_butter",
+      "ingredient2": "pork_liver",
+      "num_shared_compound": 15
+    },
+    {
+      "ingredient1": "peanut_butter",
+      "ingredient2": "soybean",
+      "num_shared_compound": 88
+    },
+    {
+      "ingredient1": "peanut_butter",
+      "ingredient2": "popcorn",
+      "num_shared_compound": 23
+    },
+    {
+      "ingredient1": "mung_bean",
+      "ingredient2": "soybean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "lima_bean",
+      "ingredient2": "soybean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "bean",
+      "ingredient2": "soybean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "kidney_bean",
+      "ingredient2": "soybean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "red_bean",
+      "ingredient2": "soybean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "black_bean",
+      "ingredient2": "soybean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "okra",
+      "ingredient2": "soybean",
+      "num_shared_compound": 18
+    },
+    {
+      "ingredient1": "red_kidney_bean",
+      "ingredient2": "soybean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "concord_grape",
+      "ingredient2": "grape",
+      "num_shared_compound": 125
+    },
+    {
+      "ingredient1": "huckleberry",
+      "ingredient2": "juniper_berry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_currant",
+      "ingredient2": "huckleberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "elderberry",
+      "ingredient2": "huckleberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_raspberry",
+      "ingredient2": "huckleberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "blackberry",
+      "ingredient2": "huckleberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "cranberry",
+      "ingredient2": "huckleberry",
+      "num_shared_compound": 53
+    },
+    {
+      "ingredient1": "huckleberry",
+      "ingredient2": "raspberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "blueberry",
+      "ingredient2": "huckleberry",
+      "num_shared_compound": 53
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "huckleberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_currant",
+      "ingredient2": "juniper_berry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_raspberry",
+      "ingredient2": "juniper_berry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "elderberry",
+      "ingredient2": "juniper_berry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "blackberry",
+      "ingredient2": "juniper_berry",
+      "num_shared_compound": 53
+    },
+    {
+      "ingredient1": "cranberry",
+      "ingredient2": "juniper_berry",
+      "num_shared_compound": 54
+    },
+    {
+      "ingredient1": "juniper_berry",
+      "ingredient2": "raspberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "blueberry",
+      "ingredient2": "juniper_berry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "juniper_berry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_currant",
+      "ingredient2": "blackberry",
+      "num_shared_compound": 61
+    },
+    {
+      "ingredient1": "black_currant",
+      "ingredient2": "black_raspberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_currant",
+      "ingredient2": "blueberry",
+      "num_shared_compound": 55
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "black_currant",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_raspberry",
+      "ingredient2": "elderberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "elderberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "cranberry",
+      "ingredient2": "elderberry",
+      "num_shared_compound": 58
+    },
+    {
+      "ingredient1": "elderberry",
+      "ingredient2": "raspberry",
+      "num_shared_compound": 58
+    },
+    {
+      "ingredient1": "blueberry",
+      "ingredient2": "elderberry",
+      "num_shared_compound": 54
+    },
+    {
+      "ingredient1": "black_raspberry",
+      "ingredient2": "blackberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_raspberry",
+      "ingredient2": "raspberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_raspberry",
+      "ingredient2": "cranberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "black_raspberry",
+      "ingredient2": "blueberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "black_raspberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "blackberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "blackberry",
+      "ingredient2": "raspberry",
+      "num_shared_compound": 72
+    },
+    {
+      "ingredient1": "blackberry",
+      "ingredient2": "blueberry",
+      "num_shared_compound": 57
+    },
+    {
+      "ingredient1": "blueberry",
+      "ingredient2": "cranberry",
+      "num_shared_compound": 58
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "cranberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "raspberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "blueberry",
+      "ingredient2": "raspberry",
+      "num_shared_compound": 55
+    },
+    {
+      "ingredient1": "berry",
+      "ingredient2": "blueberry",
+      "num_shared_compound": 52
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "emmental_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "feta_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "cottage_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "cream_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "goat_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "camembert_cheese",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "provolone_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "provolone_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "provolone_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "provolone_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "goat_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "mozzarella_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "munster_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "gruyere_cheese",
+      "ingredient2": "provolone_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "emmental_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "cottage_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "goat_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "cream_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cheese",
+      "ingredient2": "feta_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "sheep_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "roquefort_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "romano_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "gruyere_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "goat_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "mozzarella_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "munster_cheese",
+      "ingredient2": "sheep_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "romano_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "romano_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "gruyere_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "goat_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "mozzarella_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "munster_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "romano_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "roquefort_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "mozzarella_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "goat_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "munster_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "gruyere_cheese",
+      "ingredient2": "roquefort_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "emmental_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "emmental_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "goat_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "feta_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "emmental_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "feta_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "feta_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "goat_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "feta_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "cream_cheese",
+      "num_shared_compound": 130
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "goat_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cottage_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "mozzarella_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 129
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "gruyere_cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 128
+    },
+    {
+      "ingredient1": "goat_cheese",
+      "ingredient2": "mozzarella_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "mozzarella_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cream",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 27
+    },
+    {
+      "ingredient1": "goat_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "munster_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "gruyere_cheese",
+      "ingredient2": "swiss_cheese",
+      "num_shared_compound": 131
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "goat_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cream_cheese",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "goat_cheese",
+      "ingredient2": "gruyere_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "goat_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "gruyere_cheese",
+      "ingredient2": "munster_cheese",
+      "num_shared_compound": 127
+    },
+    {
+      "ingredient1": "cayenne",
+      "ingredient2": "pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "cayenne",
+      "ingredient2": "green_bell_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "black_pepper",
+      "ingredient2": "cayenne",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "cayenne",
+      "ingredient2": "tabasco_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "bell_pepper",
+      "ingredient2": "cayenne",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "cayenne",
+      "ingredient2": "thai_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "pepper",
+      "ingredient2": "thai_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "black_pepper",
+      "ingredient2": "pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "green_bell_pepper",
+      "ingredient2": "pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "pepper",
+      "ingredient2": "tabasco_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "bell_pepper",
+      "ingredient2": "pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "green_bell_pepper",
+      "ingredient2": "thai_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "black_pepper",
+      "ingredient2": "green_bell_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "bell_pepper",
+      "ingredient2": "green_bell_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "green_bell_pepper",
+      "ingredient2": "tabasco_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "black_pepper",
+      "ingredient2": "thai_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "black_pepper",
+      "ingredient2": "tabasco_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "bell_pepper",
+      "ingredient2": "black_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "tabasco_pepper",
+      "ingredient2": "thai_pepper",
+      "num_shared_compound": 38
+    },
+    {
+      "ingredient1": "bell_pepper",
+      "ingredient2": "tabasco_pepper",
+      "num_shared_compound": 37
+    },
+    {
+      "ingredient1": "bell_pepper",
+      "ingredient2": "thai_pepper",
+      "num_shared_compound": 36
+    },
+    {
+      "ingredient1": "bell_pepper",
+      "ingredient2": "mace",
+      "num_shared_compound": 16
+    },
+    {
+      "ingredient1": "gardenia",
+      "ingredient2": "geranium",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "flower",
+      "ingredient2": "geranium",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "carnation",
+      "ingredient2": "geranium",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "carnation",
+      "ingredient2": "gardenia",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "gardenia",
+      "ingredient2": "lavender",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "gardenia",
+      "ingredient2": "rose",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "flower",
+      "ingredient2": "gardenia",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "gardenia",
+      "ingredient2": "orange_flower",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "gardenia",
+      "ingredient2": "jasmine",
+      "num_shared_compound": 6
+    },
+    {
+      "ingredient1": "carnation",
+      "ingredient2": "flower",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "flower",
+      "ingredient2": "lavender",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "flower",
+      "ingredient2": "rose",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "flower",
+      "ingredient2": "jasmine",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "flower",
+      "ingredient2": "orange_flower",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "carnation",
+      "ingredient2": "orange_flower",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "carnation",
+      "ingredient2": "rose",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "carnation",
+      "ingredient2": "jasmine",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "carnation",
+      "ingredient2": "lavender",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "melon",
+      "ingredient2": "nectarine",
+      "num_shared_compound": 31
+    },
+    {
+      "ingredient1": "durian",
+      "ingredient2": "melon",
+      "num_shared_compound": 15
+    },
+    {
+      "ingredient1": "mango",
+      "ingredient2": "nectarine",
+      "num_shared_compound": 31
+    },
+    {
+      "ingredient1": "kidney_bean",
+      "ingredient2": "mung_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "mung_bean",
+      "ingredient2": "red_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "black_bean",
+      "ingredient2": "mung_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "lima_bean",
+      "ingredient2": "mung_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "bean",
+      "ingredient2": "mung_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "mung_bean",
+      "ingredient2": "red_kidney_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "kidney_bean",
+      "ingredient2": "lima_bean",
+      "num_shared_compound": 87
+    },
+    {
+      "ingredient1": "bean",
+      "ingredient2": "kidney_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "kidney_bean",
+      "ingredient2": "red_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "black_bean",
+      "ingredient2": "kidney_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "kidney_bean",
+      "ingredient2": "red_kidney_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "lima_bean",
+      "ingredient2": "red_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "bean",
+      "ingredient2": "red_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "black_bean",
+      "ingredient2": "red_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "red_bean",
+      "ingredient2": "red_kidney_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "black_bean",
+      "ingredient2": "lima_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "bean",
+      "ingredient2": "black_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "black_bean",
+      "ingredient2": "red_kidney_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "bean",
+      "ingredient2": "lima_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "lima_bean",
+      "ingredient2": "red_kidney_bean",
+      "num_shared_compound": 90
+    },
+    {
+      "ingredient1": "bean",
+      "ingredient2": "red_kidney_bean",
+      "num_shared_compound": 86
+    },
+    {
+      "ingredient1": "brown_rice",
+      "ingredient2": "rice",
+      "num_shared_compound": 74
+    },
+    {
+      "ingredient1": "jasmine_tea",
+      "ingredient2": "tea",
+      "num_shared_compound": 171
+    },
+    {
+      "ingredient1": "jasmine_tea",
+      "ingredient2": "peppermint",
+      "num_shared_compound": 29
+    },
+    {
+      "ingredient1": "jasmine_tea",
+      "ingredient2": "lemon_peel",
+      "num_shared_compound": 8
+    },
+    {
+      "ingredient1": "jasmine_tea",
+      "ingredient2": "peppermint_oil",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "japanese_plum",
+      "ingredient2": "jasmine_tea",
+      "num_shared_compound": 6
+    },
+    {
+      "ingredient1": "green_tea",
+      "ingredient2": "jasmine_tea",
+      "num_shared_compound": 172
+    },
+    {
+      "ingredient1": "peppermint_oil",
+      "ingredient2": "tea",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "green_tea",
+      "ingredient2": "tea",
+      "num_shared_compound": 171
+    },
+    {
+      "ingredient1": "peppermint",
+      "ingredient2": "tea",
+      "num_shared_compound": 29
+    },
+    {
+      "ingredient1": "japanese_plum",
+      "ingredient2": "tea",
+      "num_shared_compound": 6
+    },
+    {
+      "ingredient1": "lemon_peel",
+      "ingredient2": "tea",
+      "num_shared_compound": 8
+    },
+    {
+      "ingredient1": "green_tea",
+      "ingredient2": "vanilla",
+      "num_shared_compound": 44
+    },
+    {
+      "ingredient1": "green_tea",
+      "ingredient2": "peppermint",
+      "num_shared_compound": 33
+    },
+    {
+      "ingredient1": "green_tea",
+      "ingredient2": "lemon_peel",
+      "num_shared_compound": 10
+    },
+    {
+      "ingredient1": "green_tea",
+      "ingredient2": "jasmine",
+      "num_shared_compound": 11
+    },
+    {
+      "ingredient1": "green_tea",
+      "ingredient2": "peppermint_oil",
+      "num_shared_compound": 21
+    },
+    {
+      "ingredient1": "basil",
+      "ingredient2": "green_tea",
+      "num_shared_compound": 10
+    },
+    {
+      "ingredient1": "green_tea",
+      "ingredient2": "japanese_plum",
+      "num_shared_compound": 6
+    },
+    {
+      "ingredient1": "jasmine",
+      "ingredient2": "orange_flower",
+      "num_shared_compound": 6
+    },
+    {
+      "ingredient1": "citrus",
+      "ingredient2": "mandarin",
+      "num_shared_compound": 51
+    },
+    {
+      "ingredient1": "citrus",
+      "ingredient2": "lemon",
+      "num_shared_compound": 51
+    },
+    {
+      "ingredient1": "citrus",
+      "ingredient2": "tangerine",
+      "num_shared_compound": 51
+    },
+    {
+      "ingredient1": "citrus",
+      "ingredient2": "lime",
+      "num_shared_compound": 51
+    },
+    {
+      "ingredient1": "lemon",
+      "ingredient2": "mandarin",
+      "num_shared_compound": 56
+    },
+    {
+      "ingredient1": "mandarin",
+      "ingredient2": "tangerine",
+      "num_shared_compound": 53
+    },
+    {
+      "ingredient1": "lime",
+      "ingredient2": "mandarin",
+      "num_shared_compound": 53
+    },
+    {
+      "ingredient1": "citrus_peel",
+      "ingredient2": "lemon",
+      "num_shared_compound": 33
+    },
+    {
+      "ingredient1": "bergamot",
+      "ingredient2": "lemon",
+      "num_shared_compound": 9
+    },
+    {
+      "ingredient1": "lemon",
+      "ingredient2": "lemongrass",
+      "num_shared_compound": 13
+    },
+    {
+      "ingredient1": "lemon",
+      "ingredient2": "lime",
+      "num_shared_compound": 58
+    },
+    {
+      "ingredient1": "bitter_orange",
+      "ingredient2": "lemon",
+      "num_shared_compound": 25
+    },
+    {
+      "ingredient1": "lemon",
+      "ingredient2": "tangerine",
+      "num_shared_compound": 55
+    },
+    {
+      "ingredient1": "bergamot",
+      "ingredient2": "tangerine",
+      "num_shared_compound": 8
+    },
+    {
+      "ingredient1": "lime",
+      "ingredient2": "tangerine",
+      "num_shared_compound": 53
+    },
+    {
+      "ingredient1": "vegetable",
+      "ingredient2": "watercress",
+      "num_shared_compound": 5
+    },
+    {
+      "ingredient1": "cod",
+      "ingredient2": "smoked_fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "haddock",
+      "ingredient2": "smoked_fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "mackerel",
+      "ingredient2": "smoked_fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "salmon",
+      "ingredient2": "smoked_fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "eel",
+      "ingredient2": "smoked_fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "smoked_fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "smoked_fish",
+      "ingredient2": "tuna",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "herring",
+      "ingredient2": "smoked_fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "fish",
+      "ingredient2": "smoked_fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "smoked_fish",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "cod",
+      "ingredient2": "eel",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "cod",
+      "ingredient2": "fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "cod",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "cod",
+      "ingredient2": "herring",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "cod",
+      "ingredient2": "mackerel",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "cod",
+      "ingredient2": "haddock",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "cod",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "cod",
+      "ingredient2": "salmon",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "cod",
+      "ingredient2": "tuna",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "eel",
+      "ingredient2": "haddock",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "fish",
+      "ingredient2": "haddock",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "haddock",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "haddock",
+      "ingredient2": "herring",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "haddock",
+      "ingredient2": "mackerel",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "haddock",
+      "ingredient2": "salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "haddock",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "haddock",
+      "ingredient2": "tuna",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "eel",
+      "ingredient2": "mackerel",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "fish",
+      "ingredient2": "mackerel",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "mackerel",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "herring",
+      "ingredient2": "mackerel",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "mackerel",
+      "ingredient2": "salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "mackerel",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "mackerel",
+      "ingredient2": "tuna",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "eel",
+      "ingredient2": "salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "fish",
+      "ingredient2": "salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "salmon",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 84
+    },
+    {
+      "ingredient1": "herring",
+      "ingredient2": "salmon",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "salmon",
+      "ingredient2": "sturgeon_caviar",
+      "num_shared_compound": 19
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "salmon",
+      "ingredient2": "tuna",
+      "num_shared_compound": 84
+    },
+    {
+      "ingredient1": "eel",
+      "ingredient2": "fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "eel",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "eel",
+      "ingredient2": "tuna",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "eel",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "eel",
+      "ingredient2": "herring",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "fish",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "herring",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "catfish",
+      "ingredient2": "tuna",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "fish",
+      "ingredient2": "tuna",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "smoked_salmon",
+      "ingredient2": "tuna",
+      "num_shared_compound": 84
+    },
+    {
+      "ingredient1": "herring",
+      "ingredient2": "tuna",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "sturgeon_caviar",
+      "ingredient2": "tuna",
+      "num_shared_compound": 19
+    },
+    {
+      "ingredient1": "fish",
+      "ingredient2": "herring",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "herring",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 65
+    },
+    {
+      "ingredient1": "fish",
+      "ingredient2": "smoked_salmon",
+      "num_shared_compound": 64
+    },
+    {
+      "ingredient1": "smoked_salmon",
+      "ingredient2": "sturgeon_caviar",
+      "num_shared_compound": 19
+    },
+    {
+      "ingredient1": "coriander",
+      "ingredient2": "mace",
+      "num_shared_compound": 16
+    },
+    {
+      "ingredient1": "leaf",
+      "ingredient2": "lovage",
+      "num_shared_compound": 16
+    },
+    {
+      "ingredient1": "leek",
+      "ingredient2": "shallot",
+      "num_shared_compound": 11
+    },
+    {
+      "ingredient1": "garlic",
+      "ingredient2": "leek",
+      "num_shared_compound": 10
+    },
+    {
+      "ingredient1": "chive",
+      "ingredient2": "leek",
+      "num_shared_compound": 11
+    },
+    {
+      "ingredient1": "black_sesame_seed",
+      "ingredient2": "seed",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "rapeseed",
+      "ingredient2": "seed",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "black_sesame_seed",
+      "ingredient2": "rapeseed",
+      "num_shared_compound": 17
+    },
+    {
+      "ingredient1": "basil",
+      "ingredient2": "rosemary",
+      "num_shared_compound": 10
+    },
+    {
+      "ingredient1": "peppermint",
+      "ingredient2": "peppermint_oil",
+      "num_shared_compound": 58
+    },
+    {
+      "ingredient1": "lemon_peel",
+      "ingredient2": "peppermint",
+      "num_shared_compound": 8
+    },
+    {
+      "ingredient1": "lemon_peel",
+      "ingredient2": "lime_peel_oil",
+      "num_shared_compound": 6
+    },
+    {
+      "ingredient1": "almond",
+      "ingredient2": "roasted_almond",
+      "num_shared_compound": 9
+    },
+    {
+      "ingredient1": "apricot",
+      "ingredient2": "quince",
+      "num_shared_compound": 33
+    },
+    {
+      "ingredient1": "bartlett_pear",
+      "ingredient2": "pear",
+      "num_shared_compound": 49
+    },
+    {
+      "ingredient1": "coconut",
+      "ingredient2": "coconut_oil",
+      "num_shared_compound": 18
+    }
+  ],
+  "ingredients": {
+    "orange_peel": {
+      "category": "plant",
+      "prevalence": 0.0273017994368
+    },
+    "orange": {
+      "category": "fruit",
+      "prevalence": 0.0815712853802
+    },
+    "cinnamon": {
+      "category": "spice",
+      "prevalence": 0.267433535392
+    },
+    "tarragon": {
+      "category": "herb",
+      "prevalence": 0.0227196792516
+    },
+    "anise": {
+      "category": "spice",
+      "prevalence": 0.0106438833469
+    },
+    "ginger": {
+      "category": "spice",
+      "prevalence": 0.182139277361
+    },
+    "fennel": {
+      "category": "herb",
+      "prevalence": 0.0432914896664
+    },
+    "nutmeg": {
+      "category": "spice",
+      "prevalence": 0.119898811513
+    },
+    "guava": {
+      "category": "fruit",
+      "prevalence": 0.000620495441745
+    },
+    "star_anise": {
+      "category": "spice",
+      "prevalence": 0.00434346809222
+    },
+    "cherry": {
+      "category": "fruit",
+      "prevalence": 0.0517397737578
+    },
+    "apple": {
+      "category": "fruit",
+      "prevalence": 0.115412152165
+    },
+    "roasted_pork": {
+      "category": "meat",
+      "prevalence": 0.00596630232447
+    },
+    "pork": {
+      "category": "meat",
+      "prevalence": 0.0937425421221
+    },
+    "raw_beef": {
+      "category": "meat",
+      "prevalence": 9.54608371915e-05
+    },
+    "beef": {
+      "category": "meat",
+      "prevalence": 0.230156078469
+    },
+    "bacon": {
+      "category": "meat",
+      "prevalence": 0.102906782492
+    },
+    "cured_pork": {
+      "category": "meat",
+      "prevalence": 0.0149873514391
+    },
+    "chicken": {
+      "category": "meat",
+      "prevalence": 0.252684836046
+    },
+    "roasted_beef": {
+      "category": "meat",
+      "prevalence": 0.0105961529283
+    },
+    "pork_sausage": {
+      "category": "meat",
+      "prevalence": 0.0650088301274
+    },
+    "cabernet_sauvignon_wine": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.000811417116128
+    },
+    "jamaican_rum": {
+      "category": "alcoholic beverage",
+      "prevalence": 4.77304185958e-05
+    },
+    "rum": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.0287337119947
+    },
+    "red_wine": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.0664884731039
+    },
+    "cider": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.0534580688273
+    },
+    "port_wine": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.00233879051119
+    },
+    "white_wine": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.103384086678
+    },
+    "champagne_wine": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.00472531144098
+    },
+    "whiskey": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.00706410195217
+    },
+    "beer": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.0144623168345
+    },
+    "cognac": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.00315020762732
+    },
+    "pineapple": {
+      "category": "fruit",
+      "prevalence": 0.0771323564508
+    },
+    "sherry": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.0300701637153
+    },
+    "apple_brandy": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.00176602548804
+    },
+    "wine": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.0418595771085
+    },
+    "orange_juice": {
+      "category": "fruit",
+      "prevalence": 0.0811417116128
+    },
+    "rye_bread": {
+      "category": "cereal/crop",
+      "prevalence": 0.00434346809222
+    },
+    "wheat_bread": {
+      "category": "cereal/crop",
+      "prevalence": 0.00396162474345
+    },
+    "bread": {
+      "category": "cereal/crop",
+      "prevalence": 0.217316595867
+    },
+    "cocoa": {
+      "category": "plant derivative",
+      "prevalence": 0.229153739678
+    },
+    "black_tea": {
+      "category": "plant derivative",
+      "prevalence": 0.00181375590664
+    },
+    "passion_fruit": {
+      "category": "fruit",
+      "prevalence": 0.000954608371915
+    },
+    "muscat_grape": {
+      "category": "fruit",
+      "prevalence": 4.77304185958e-05
+    },
+    "brandy": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.0188535153453
+    },
+    "parmesan_cheese": {
+      "category": "dairy",
+      "prevalence": 0.151162235693
+    },
+    "strawberry": {
+      "category": "fruit",
+      "prevalence": 0.0514533912462
+    },
+    "marjoram": {
+      "category": "herb",
+      "prevalence": 0.0252016610186
+    },
+    "porcini": {
+      "category": "vegetable",
+      "prevalence": 0.00505942437115
+    },
+    "matsutake": {
+      "category": "vegetable",
+      "prevalence": 0.00267290344136
+    },
+    "enokidake": {
+      "category": "vegetable",
+      "prevalence": 0.00505942437115
+    },
+    "shiitake": {
+      "category": "vegetable",
+      "prevalence": 0.0243902439024
+    },
+    "mushroom": {
+      "category": "vegetable",
+      "prevalence": 0.158321798482
+    },
+    "milk": {
+      "category": "dairy",
+      "prevalence": 0.615483747792
+    },
+    "cheddar_cheese": {
+      "category": "dairy",
+      "prevalence": 0.144575437927
+    },
+    "blue_cheese": {
+      "category": "dairy",
+      "prevalence": 0.0188535153453
+    },
+    "katsuobushi": {
+      "category": "fish/seafood",
+      "prevalence": 0.00233879051119
+    },
+    "coffee": {
+      "category": "plant derivative",
+      "prevalence": 0.0341749797146
+    },
+    "lamb": {
+      "category": "meat",
+      "prevalence": 0.0225287575772
+    },
+    "roasted_peanut": {
+      "category": "nut/seed/pulse",
+      "prevalence": 0.0078755190683
+    },
+    "caviar": {
+      "category": "fish/seafood",
+      "prevalence": 0.00124099088349
+    },
+    "peanut": {
+      "category": "nut/seed/pulse",
+      "prevalence": 0.0216218796239
+    },
+    "onion": {
+      "category": "vegetable",
+      "prevalence": 0.8606271777
+    },
+    "baked_potato": {
+      "category": "vegetable",
+      "prevalence": 0.000429573767362
+    },
+    "peanut_butter": {
+      "category": "plant derivative",
+      "prevalence": 0.0474917665028
+    },
+    "soybean": {
+      "category": "vegetable",
+      "prevalence": 0.049353252828
+    },
+    "pork_liver": {
+      "category": "meat",
+      "prevalence": 0.000238652092979
+    },
+    "grape": {
+      "category": "fruit",
+      "prevalence": 0.0164669944155
+    },
+    "concord_grape": {
+      "category": "fruit",
+      "prevalence": 0.000572765023149
+    },
+    "huckleberry": {
+      "category": "fruit",
+      "prevalence": 0.000477304185958
+    },
+    "juniper_berry": {
+      "category": "fruit",
+      "prevalence": 0.00157510381366
+    },
+    "black_currant": {
+      "category": "fruit",
+      "prevalence": 0.000525034604553
+    },
+    "elderberry": {
+      "category": "fruit",
+      "prevalence": 0.000238652092979
+    },
+    "black_raspberry": {
+      "category": "fruit",
+      "prevalence": 0.000381843348766
+    },
+    "blackberry": {
+      "category": "fruit",
+      "prevalence": 0.00806644074269
+    },
+    "cranberry": {
+      "category": "fruit",
+      "prevalence": 0.0437210634337
+    },
+    "raspberry": {
+      "category": "fruit",
+      "prevalence": 0.0374206481791
+    },
+    "blueberry": {
+      "category": "fruit",
+      "prevalence": 0.022194644647
+    },
+    "berry": {
+      "category": "fruit",
+      "prevalence": 0.00868693618443
+    },
+    "camembert_cheese": {
+      "category": "dairy",
+      "prevalence": 0.000572765023149
+    },
+    "provolone_cheese": {
+      "category": "dairy",
+      "prevalence": 0.00797097990549
+    },
+    "cheese": {
+      "category": "dairy",
+      "prevalence": 0.156651233831
+    },
+    "sheep_cheese": {
+      "category": "dairy",
+      "prevalence": 9.54608371915e-05
+    },
+    "romano_cheese": {
+      "category": "dairy",
+      "prevalence": 0.0131258651138
+    },
+    "roquefort_cheese": {
+      "category": "dairy",
+      "prevalence": 0.0010977996277
+    },
+    "emmental_cheese": {
+      "category": "dairy",
+      "prevalence": 4.77304185958e-05
+    },
+    "feta_cheese": {
+      "category": "dairy",
+      "prevalence": 0.029640589948
+    },
+    "cottage_cheese": {
+      "category": "dairy",
+      "prevalence": 0.0166101856713
+    },
+    "mozzarella_cheese": {
+      "category": "dairy",
+      "prevalence": 0.0615722399885
+    },
+    "swiss_cheese": {
+      "category": "dairy",
+      "prevalence": 0.024915278507
+    },
+    "cream_cheese": {
+      "category": "dairy",
+      "prevalence": 0.135506658393
+    },
+    "goat_cheese": {
+      "category": "dairy",
+      "prevalence": 0.0123621784163
+    },
+    "munster_cheese": {
+      "category": "dairy",
+      "prevalence": 0.00128872130209
+    },
+    "gruyere_cheese": {
+      "category": "dairy",
+      "prevalence": 0.00210013841821
+    },
+    "cayenne": {
+      "category": "spice",
+      "prevalence": 0.379456827836
+    },
+    "pepper": {
+      "category": "spice",
+      "prevalence": 0.432437592478
+    },
+    "green_bell_pepper": {
+      "category": "vegetable",
+      "prevalence": 0.12304901914
+    },
+    "black_pepper": {
+      "category": "spice",
+      "prevalence": 0.465467042146
+    },
+    "tabasco_pepper": {
+      "category": "spice",
+      "prevalence": 0.0460598539449
+    },
+    "bell_pepper": {
+      "category": "vegetable",
+      "prevalence": 0.279079757529
+    },
+    "thai_pepper": {
+      "category": "spice",
+      "prevalence": 0.00415254641783
+    },
+    "geranium": {
+      "category": "flower",
+      "prevalence": 4.77304185958e-05
+    },
+    "gardenia": {
+      "category": "flower",
+      "prevalence": 0.000429573767362
+    },
+    "flower": {
+      "category": "flower",
+      "prevalence": 0.00143191255787
+    },
+    "carnation": {
+      "category": "flower",
+      "prevalence": 0.000143191255787
+    },
+    "grape_brandy": {
+      "category": "alcoholic beverage",
+      "prevalence": 0.000381843348766
+    },
+    "melon": {
+      "category": "fruit",
+      "prevalence": 0.00749367571954
+    },
+    "nectarine": {
+      "category": "fruit",
+      "prevalence": 0.00238652092979
+    },
+    "durian": {
+      "category": "fruit",
+      "prevalence": 4.77304185958e-05
+    },
+    "mung_bean": {
+      "category": "vegetable",
+      "prevalence": 0.00090687795332
+    },
+    "kidney_bean": {
+      "category": "vegetable",
+      "prevalence": 0.0210968450193
+    },
+    "red_bean": {
+      "category": "vegetable",
+      "prevalence": 0.00157510381366
+    },
+    "black_bean": {
+      "category": "vegetable",
+      "prevalence": 0.0226242184144
+    },
+    "lima_bean": {
+      "category": "vegetable",
+      "prevalence": 0.00711183237077
+    },
+    "bean": {
+      "category": "vegetable",
+      "prevalence": 0.0908309865878
+    },
+    "red_kidney_bean": {
+      "category": "vegetable",
+      "prevalence": 0.00281609469715
+    },
+    "rice": {
+      "category": "cereal/crop",
+      "prevalence": 0.162044771133
+    },
+    "brown_rice": {
+      "category": "cereal/crop",
+      "prevalence": 0.0160851510668
+    },
+    "jasmine_tea": {
+      "category": "plant derivative",
+      "prevalence": 4.77304185958e-05
+    },
+    "tea": {
+      "category": "plant derivative",
+      "prevalence": 0.00482077227817
+    },
+    "green_tea": {
+      "category": "plant derivative",
+      "prevalence": 0.00152737339506
+    },
+    "okra": {
+      "category": "fruit",
+      "prevalence": 0.00477304185958
+    },
+    "wood": {
+      "category": "plant",
+      "prevalence": 0.00157510381366
+    },
+    "popcorn": {
+      "category": "cereal/crop",
+      "prevalence": 0.00462985060379
+    },
+    "squid": {
+      "category": "fish/seafood",
+      "prevalence": 0.0108825354398
+    },
+    "orange_flower": {
+      "category": "flower",
+      "prevalence": 0.000859147534724
+    },
+    "rose": {
+      "category": "flower",
+      "prevalence": 0.00300701637153
+    },
+    "jasmine": {
+      "category": "flower",
+      "prevalence": 0.00033411293017
+    },
+    "lavender": {
+      "category": "flower",
+      "prevalence": 0.00295928595294
+    },
+    "citrus": {
+      "category": "fruit",
+      "prevalence": 0.00778005823111
+    },
+    "mandarin": {
+      "category": "fruit",
+      "prevalence": 0.0132690563696
+    },
+    "lemon": {
+      "category": "fruit",
+      "prevalence": 0.145386855043
+    },
+    "tangerine": {
+      "category": "fruit",
+      "prevalence": 0.00210013841821
+    },
+    "lime": {
+      "category": "fruit",
+      "prevalence": 0.0516920433392
+    },
+    "vegetable": {
+      "category": "vegetable",
+      "prevalence": 0.079232494869
+    },
+    "watercress": {
+      "category": "vegetable",
+      "prevalence": 0.00630041525464
+    },
+    "potato_chip": {
+      "category": "vegetable",
+      "prevalence": 0.00310247720873
+    },
+    "smoked_fish": {
+      "category": "fish/seafood",
+      "prevalence": 0.000286382511575
+    },
+    "cod": {
+      "category": "fish/seafood",
+      "prevalence": 0.00830509283566
+    },
+    "haddock": {
+      "category": "fish/seafood",
+      "prevalence": 0.00147964297647
+    },
+    "mackerel": {
+      "category": "fish/seafood",
+      "prevalence": 0.00210013841821
+    },
+    "salmon": {
+      "category": "fish/seafood",
+      "prevalence": 0.0207150016706
+    },
+    "eel": {
+      "category": "fish/seafood",
+      "prevalence": 0.000954608371915
+    },
+    "catfish": {
+      "category": "fish/seafood",
+      "prevalence": 0.00324566846451
+    },
+    "tuna": {
+      "category": "fish/seafood",
+      "prevalence": 0.0211445754379
+    },
+    "herring": {
+      "category": "fish/seafood",
+      "prevalence": 0.000477304185958
+    },
+    "fish": {
+      "category": "fish/seafood",
+      "prevalence": 0.0896854565415
+    },
+    "smoked_salmon": {
+      "category": "fish/seafood",
+      "prevalence": 0.00462985060379
+    },
+    "white_bread": {
+      "category": "cereal/crop",
+      "prevalence": 0.0176602548804
+    },
+    "coriander": {
+      "category": "spice",
+      "prevalence": 0.072263853754
+    },
+    "mace": {
+      "category": "spice",
+      "prevalence": 0.00548899813851
+    },
+    "lovage": {
+      "category": "herb",
+      "prevalence": 0.0067777194406
+    },
+    "leaf": {
+      "category": "plant",
+      "prevalence": 0.000429573767362
+    },
+    "thyme": {
+      "category": "herb",
+      "prevalence": 0.14514820295
+    },
+    "shallot": {
+      "category": "vegetable",
+      "prevalence": 0.0566560068732
+    },
+    "garlic": {
+      "category": "vegetable",
+      "prevalence": 0.806309961338
+    },
+    "chive": {
+      "category": "vegetable",
+      "prevalence": 0.0627655004534
+    },
+    "citrus_peel": {
+      "category": "plant",
+      "prevalence": 0.000190921674383
+    },
+    "seed": {
+      "category": "nut/seed/pulse",
+      "prevalence": 0.0626700396162
+    },
+    "black_sesame_seed": {
+      "category": "nut/seed/pulse",
+      "prevalence": 0.00124099088349
+    },
+    "rapeseed": {
+      "category": "plant",
+      "prevalence": 0.000143191255787
+    },
+    "rosemary": {
+      "category": "herb",
+      "prevalence": 0.090210491146
+    },
+    "basil": {
+      "category": "herb",
+      "prevalence": 0.180373251873
+    },
+    "vanilla": {
+      "category": "spice",
+      "prevalence": 0.430767027827
+    },
+    "peppermint_oil": {
+      "category": "plant derivative",
+      "prevalence": 0.000429573767362
+    },
+    "peppermint": {
+      "category": "herb",
+      "prevalence": 0.0067777194406
+    },
+    "japanese_plum": {
+      "category": "fruit",
+      "prevalence": 0.000620495441745
+    },
+    "lemon_peel": {
+      "category": "plant",
+      "prevalence": 0.034127249296
+    },
+    "almond": {
+      "category": "nut/seed/pulse",
+      "prevalence": 0.110734571142
+    },
+    "roasted_almond": {
+      "category": "nut/seed/pulse",
+      "prevalence": 0.000143191255787
+    },
+    "bergamot": {
+      "category": "flower",
+      "prevalence": 0.00033411293017
+    },
+    "lemongrass": {
+      "category": "herb",
+      "prevalence": 0.00653906734762
+    },
+    "honey": {
+      "category": "animal product",
+      "prevalence": 0.118514629373
+    },
+    "bitter_orange": {
+      "category": "fruit",
+      "prevalence": 0.00396162474345
+    },
+    "quince": {
+      "category": "fruit",
+      "prevalence": 0.00133645172068
+    },
+    "bartlett_pear": {
+      "category": "fruit",
+      "prevalence": 0.0010977996277
+    },
+    "banana": {
+      "category": "fruit",
+      "prevalence": 0.0469667318982
+    },
+    "kiwi": {
+      "category": "fruit",
+      "prevalence": 0.00501169395256
+    },
+    "papaya": {
+      "category": "fruit",
+      "prevalence": 0.00219559925541
+    },
+    "pear": {
+      "category": "fruit",
+      "prevalence": 0.0223378359028
+    },
+    "olive": {
+      "category": "fruit",
+      "prevalence": 0.0857715622166
+    },
+    "apricot": {
+      "category": "fruit",
+      "prevalence": 0.0295928595294
+    },
+    "plum": {
+      "category": "fruit",
+      "prevalence": 0.013221325951
+    },
+    "mango": {
+      "category": "fruit",
+      "prevalence": 0.0185194024152
+    },
+    "grapefruit": {
+      "category": "fruit",
+      "prevalence": 0.00558445897571
+    },
+    "lime_peel_oil": {
+      "category": "plant derivative",
+      "prevalence": 0.00477304185958
+    },
+    "sturgeon_caviar": {
+      "category": "fish/seafood",
+      "prevalence": 4.77304185958e-05
+    },
+    "lingonberry": {
+      "category": "fruit",
+      "prevalence": 0.000429573767362
+    },
+    "cream": {
+      "category": "dairy",
+      "prevalence": 0.484559209584
+    },
+    "buttermilk": {
+      "category": "dairy",
+      "prevalence": 0.0779437735669
+    },
+    "coconut": {
+      "category": "nut/seed/pulse",
+      "prevalence": 0.0816190157988
+    },
+    "coconut_oil": {
+      "category": "plant derivative",
+      "prevalence": 0.000811417116128
+    },
+    "mint": {
+      "category": "herb",
+      "prevalence": 0.0444847501313
+    },
+    "strawberry_jam": {
+      "category": "fruit",
+      "prevalence": 4.77304185958e-05
+    },
+    "spearmint": {
+      "category": "herb",
+      "prevalence": 0.000238652092979
+    },
+    "tomato": {
+      "category": "vegetable",
+      "prevalence": 0.472960717865
+    },
+    "clove": {
+      "category": "spice",
+      "prevalence": 0.000477304185958
+    },
+    "hop": {
+      "category": "cereal/crop",
+      "prevalence": 0.000143191255787
+    },
+    "malt": {
+      "category": "cereal/crop",
+      "prevalence": 0.00176602548804
+    },
+    "butter": {
+      "category": "dairy",
+      "prevalence": 0.990119803351
+    },
+    "potato": {
+      "category": "vegetable",
+      "prevalence": 0.169204333922
+    },
+    "egg": {
+      "category": "animal product",
+      "prevalence": 1.0
+    },
+    "leek": {
+      "category": "vegetable",
+      "prevalence": 0.0196172020429
+    }
+  }
+}
