@@ -6,6 +6,10 @@ A RAG-enabled personal cooking assistant built as a culmination of our Applied M
 
 Miso-Helpful is an intelligent cooking assistant that leverages Retrieval-Augmented Generation (RAG) to help you with recipes, cooking techniques, and culinary questions. The chatbot provides personalized cooking guidance powered by machine learning.
 
+## Video Presentation & Demo Link
+https://youtu.be/dMLh9Wb2VFM
+
+
 ## Prerequisites
 
 - Python 3.8 or higher
